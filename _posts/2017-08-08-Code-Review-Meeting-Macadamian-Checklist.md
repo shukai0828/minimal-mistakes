@@ -3,7 +3,12 @@ layout: single
 title:  "代码评审Checklist"
 date:   2017-08-08 16:16:01 -0600
 categories: Technology Management
+toc: true
+toc_label: 目录
+toc_icon: group
 ---
+
+![代码评审](http://7xil47.com1.z0.glb.clouddn.com/2017-08-08-Code-Review-Meeting-Macadamian-Checklist.png)
 
 以下是用于开发人员代码review的 Macadamian's指南 . 在代码提交控制前，它们应该按照以下的规则检查。
 
