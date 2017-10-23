@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "颍川郡"
+title: "颍川"
 permalink: /about/
 ---
 

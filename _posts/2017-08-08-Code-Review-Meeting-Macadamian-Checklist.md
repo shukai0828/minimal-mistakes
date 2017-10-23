@@ -10,9 +10,7 @@ toc_icon: group
 
 ![代码评审](http://7xil47.com1.z0.glb.clouddn.com/2017-08-08-Code-Review-Meeting-Macadamian-Checklist.png)
 
-以下是用于开发人员代码review的 Macadamian's指南 . 在代码提交控制前，它们应该按照以下的规则检查。
-
-我们公开这份检查表是希望给任何开发部门的同行代码评审提供一个简要的参考。你可以直接按本表开始评审，当然，更好的办法是 按照开发实际作出修改后使用。
+本文内容主要介绍了代码评审的关注点，在合并代码之前，应该按照如下的规则进行检查。
 
 **目录**
 
@@ -26,7 +24,7 @@ toc_icon: group
 - Bug Fixes bug修复
 - Math 数学
 
-## General Code Smoke Test 通用测试 ##
+## 通用测试 ##
 
 **Does the code build correctly?**
 
@@ -48,7 +46,7 @@ As a reviewer, you should understand the code. If you don't, the review may not 
 Insure the developer has unit tested the code before sending it for review. All the limit cases should have been tested.
 > 确保开发者本人已经测试过代码。在提交评审前，确保开发者已经完成了代码的单元测试。所有可能的情况都应该测试。
 
-## Comments and Coding Conventions 注释和代码风格 ##
+## 注释和代码风格 ##
 
 **Does the code respect the project coding conventions?**
 
@@ -95,7 +93,7 @@ There should be an explanation for any code that is commented out. "Dead Code" s
 A comment is required for all code not completely implemented. The comment should describe what's left to do or is missing. You should also use a distinctive marker that you can search for later (For example: "TODO:francis"). 
 > 缺少的函数功能、没有完全解决的问题需要注释表示。注释要描述剩下的工作以及缺少的东西。最好加一个标记以便将来查找，例如“TODO:fancis”。
 
-## Error Handling 错误处理 ##
+## 错误处理 ##
 
 **Are assertions used everywhere data is expected to have a valid value or range?**
 
@@ -126,7 +124,7 @@ Consider notifying your caller when an error is detected. If the error might aff
 
 Don't forget that error handling code that can be defective. It is important to write test cases that exercise it. > 错误处理 的代码是否已经测试过。
 
-## Resource Leaks 资源泄漏 ##
+## 资源泄漏 ##
 
 **Is allocated memory (non-garbage collected) freed?**
 
@@ -149,7 +147,7 @@ Frequently a reference counter is used to keep the reference count on objects (F
 > 确保 代码与引用计数（reference counting）保持同步。
 P.S.: STL中允许使用SmartPointer,而不能自动实现引用计数（请参见开放源代码 Boost 库中的 shared_ptr 类，或者参见STL中的更加简单的 auto_ptr 类）。COM中有相关的应用。
 
-## Thread Safeness 线程安全性 ##
+## 线程安全性 ##
 
 **Are all global variables thread-safe?**
 
@@ -171,7 +169,7 @@ It is important to release the locks in the same order they were acquired to avo
 Make sure there's no possibility for acquiring a set of locks (mutex, semaphores, etc.) in different orders. For example, if Thread A acquires Lock #1 and then Lock #2, then Thread B shouldn't acquire Lock #2 and then Lock #1.
 >是否存在可能的死锁或线程争抢资源？
 
-## Control Structures 控制结构 ##
+## 控制结构 ##
 
 **Are loop ending conditions accurate?**
 
@@ -183,7 +181,7 @@ Check all loops to make sure they iterate the right number of times. Check the c
 Check for code paths that can cause infinite loops. Make sure end loop conditions will be met unless otherwise documented.
 > 代码不要陷入无穷循环。检查可能导致无穷循环的代码路径。
 
-## Performance 性能 ##
+## 性能 ##
 
 **Do recursive functions run within a reasonable amount of stack space?**
 
@@ -212,7 +210,7 @@ Doing busy waits takes up CPU time. It is a better practice to use synchronizati
 
 Optimizations often make code harder to read and more likely to contain bugs. Such optimizations should be avoided unless a need has been identified. Has the code been profiled?
 
-## Functions ##
+## 函数 ##
 
 **Are function parameters explicitly verified in the code?**
 
@@ -230,7 +228,7 @@ Make sure there are no code paths where variables are used prior to being initia
 
 Don't reinvent the wheel. New code should use existing functionality as much as possible. Don't rewrite source code that already exists in the project. Code that is replicated in more than one function should be put in a helper function for easier maintenance.
 
-## Bug Fixes Bug修复 ##
+## Bug修复 ##
 
 **Does a fix made to a function change the behavior of caller functions?**
 
@@ -242,7 +240,7 @@ Sometimes code expects a function to behave incorrectly. Fixing the function can
 If the code you're reviewing is fixing a bug, make sure it fixes all the occurrences of the bug.
 >对Bug的修复是否已经改正了所有并发可能的错误。（不能引入新的Bug）
 
-## Math 数学考量 ##
+## 数学考量 ##
 
 **Is the code doing signed/unsigned conversions? Check all signed to unsigned conversions: Can sign completion cause problems? Check all unsigned to signed conversions: Can overflow occur?**
 
