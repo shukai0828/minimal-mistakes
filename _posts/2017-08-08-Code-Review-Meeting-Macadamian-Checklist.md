@@ -6,11 +6,14 @@ categories: Technology Management
 toc: true
 toc_label: 目录
 toc_icon: group
+header:
+  overlay_image: http://7xil47.com1.z0.glb.clouddn.com/CodeReviewCommonImg.jpg
+  overlay_filter: 0.5
 ---
 
-![代码评审](http://7xil47.com1.z0.glb.clouddn.com/2017-08-08-Code-Review-Meeting-Macadamian-Checklist.png)
-
 本文内容主要介绍了代码评审的关注点，在合并代码之前，应该按照如下的规则进行检查。
+
+![代码评审](http://7xil47.com1.z0.glb.clouddn.com/2017-08-08-Code-Review-Meeting-Macadamian-Checklist.png)
 
 **目录**
 
