@@ -147,7 +147,7 @@ Developers are naturally motivated by company or management recognition. In gene
 
 > 在管理上应该同时重视开发和评审，不应偏袒
 
-## 开发阶段将结束时BUG会飙升
+### 开发阶段将结束时BUG会飙升
 
 The Bug Rate Skyrockets In The Last Stage Of The Development Cycle
 
