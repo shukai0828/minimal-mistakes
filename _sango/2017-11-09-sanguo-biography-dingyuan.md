@@ -1,5 +1,5 @@
 ---
-title: "三国人物：丁原·建阳"
+title: "丁原·建阳"
 date:   2017-11-08 08:32:09
 header:
   overlay_image: http://oyy3dtfqo.bkt.clouddn.com/s3-1.png

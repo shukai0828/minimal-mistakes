@@ -1,5 +1,5 @@
 ---
-title: "三国人物：丁封"
+title: "丁封"
 date:   2017-11-08 08:59:08
 header:
   overlay_image: http://oyy3dtfqo.bkt.clouddn.com/s320-1.png

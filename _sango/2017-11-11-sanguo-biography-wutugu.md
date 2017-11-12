@@ -1,5 +1,5 @@
 ---
-title: "三国人物：兀突骨"
+title: "兀突骨"
 date:   2017-11-11 22:47:12
 header:
   overlay_image: http://oyy3dtfqo.bkt.clouddn.com/s3-1.png

@@ -1,5 +1,5 @@
 ---
-title: "三国人物：于吉"
+title: "于吉"
 date:   2017-11-08 08:46:11
 header:
   overlay_image: http://oyy3dtfqo.bkt.clouddn.com/s3-1.png

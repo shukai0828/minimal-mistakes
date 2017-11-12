@@ -1,5 +1,5 @@
 ---
-title: "三国人物：尹大目"
+title: "尹大目"
 date:   2017-11-07 08:38:04
 header:
   overlay_image: http://oyy3dtfqo.bkt.clouddn.com/s319-1.png

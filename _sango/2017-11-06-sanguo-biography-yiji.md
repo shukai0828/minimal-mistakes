@@ -1,5 +1,5 @@
 ---
-title: "三国人物：伊籍·机伯"
+title: "伊籍·机伯"
 date:   2017-11-06 08:49:02
 header:
   overlay_image: http://oyy3dtfqo.bkt.clouddn.com/s321-1.png

@@ -1,5 +1,5 @@
 ---
-title: "三国人物：阿会喃"
+title: "阿会喃"
 date:   2017-11-03 08:10:56
 header:
   overlay_image: http://oyy3dtfqo.bkt.clouddn.com/s3-1.png

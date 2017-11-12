@@ -1,5 +1,5 @@
 ---
-title: "三国人物：尹默·思潜"
+title: "尹默·思潜"
 date:   2017-11-07 08:45:05
 header:
   overlay_image: http://oyy3dtfqo.bkt.clouddn.com/s321-1.png

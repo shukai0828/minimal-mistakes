@@ -1,5 +1,5 @@
 ---
-title: "三国人物：丁仪·正礼"
+title: "丁仪·正礼"
 date:   2017-11-08 08:37:10
 header:
   overlay_image: http://oyy3dtfqo.bkt.clouddn.com/s319-1.png

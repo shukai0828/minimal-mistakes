@@ -1,5 +1,5 @@
 ---
-title: "三国人物：韦昭·弘嗣"
+title: "韦昭·弘嗣"
 date:   2017-11-05 22:41:01
 header:
   overlay_image: http://oyy3dtfqo.bkt.clouddn.com/s320-1.png

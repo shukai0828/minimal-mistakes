@@ -1,5 +1,5 @@
 ---
-title: "三国人物：于禁·文则"
+title: "于禁·文则"
 date:   2017-11-07 08:52:06
 header:
   overlay_image: http://oyy3dtfqo.bkt.clouddn.com/s319-1.png

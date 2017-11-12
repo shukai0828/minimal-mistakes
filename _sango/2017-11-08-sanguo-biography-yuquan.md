@@ -1,5 +1,5 @@
 ---
-title: "三国人物：于诠"
+title: "于诠"
 date:   2017-11-08 08:38:07
 header:
   overlay_image: http://oyy3dtfqo.bkt.clouddn.com/s320-1.png

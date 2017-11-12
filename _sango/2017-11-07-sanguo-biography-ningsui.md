@@ -1,5 +1,5 @@
 ---
-title: "三国人物：甯随"
+title: "甯随"
 date:   2017-11-07 08:28:03
 header:
   overlay_image: http://oyy3dtfqo.bkt.clouddn.com/s2-1.png
