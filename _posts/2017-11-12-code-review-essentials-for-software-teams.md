@@ -11,6 +11,8 @@ header:
   overlay_filter: 0.5
 ---
 
+代码评审是协作型软件项目的核心，确保项目的成员和代码本身在正确的方向上前进。
+
 Code Review Essentials for Software Teams
 
 Code Review is an essential part of any collaborative software project. Large software systems are usually written by more than one person, and so a highly functioning software team needs a robust process to keep its members, as well as the code base itself moving in the right direction.
@@ -28,27 +30,51 @@ It’s helpful to think of these benefits as a hierarchy of needs.
 Code Review: Hiercharchy of Needs
 
 ![代码评审关注点等级](http://7xil47.com1.z0.glb.clouddn.com/code_review_hierarchy.png)
+
+## 团结团队
+
 Keeping Team Members Together
+
 The most critical function of a Code Review is to keep every member of the team moving in the right direction. You can’t safetly change a system you don’t understand, and so Code Review keeps the team mentally aligned together. When Bob submits a pull request for the accounting subsystem, Amy keeps her mental model of that system updated as she reviews Bob’s code. Amy gets the chance to ask questions about pieces she doesn’t understand, and Bob gets the benefit of clarifying his design decisions as well as teaching someone else about his work. When Amy has to make a change to the accounting subsystem a month later, her mental model of the system is already up to date and ready for action. She spends less time reading code and trying to piece the system together in her brain, and more time thinking about higher level abstractions and designs. Everyone wins, because everyone stays together.
 
+> 代码评审能够让每个成员都在正确的方向上前进，让每个成员都能了解到系统的全貌
+
+## 执行Pull Request
+
 Executing a Good Pull Request
+
 Before you even write a line of code changing the system, ask yourself the following questions:
 
-“Is this the right thing to be working on?” There will always be competing needs from customers, internal team members and other parties. This can be a good way to keep priorities straight in your head before you dive in deep. Other processes like iteration / sprint planning meetings also help keep this on track.
-“Does the team already agree that the change is the right one?” If not, it’d be better to start a design discussion by email or maybe in person. Your changes are more likely to get accepted when people are in agreement about the design before you change it.
-“How can I break this change into digestable chunks that are easy to review and understand?” Small changes are easier to think about and understand. Good discussions flow from the team being able to comprehend your change quickly. If your change is massive, teammate’s eyes will glaze over, and you might only get a few style nitpicks from them.
-“How am I going to test this change to kill bugs and ensure correctness?” You might have a QA department, but it’s still your job as the developer to ship quality working software. Easily testable software is usually more decoupled, is broken into smaller chunks, and easier to reason about. You need to have a testing plan for all your changes.
+* “Is this the right thing to be working on?” There will always be competing needs from customers, internal team members and other parties. This can be a good way to keep priorities straight in your head before you dive in deep. Other processes like iteration / sprint planning meetings also help keep this on track.
+* “Does the team already agree that the change is the right one?” If not, it’d be better to start a design discussion by email or maybe in person. Your changes are more likely to get accepted when people are in agreement about the design before you change it.
+* “How can I break this change into digestable chunks that are easy to review and understand?” Small changes are easier to think about and understand. Good discussions flow from the team being able to comprehend your change quickly. If your change is massive, team-mate's eyes will glaze over, and you might only get a few style nitpicks from them.
+* “How am I going to test this change to kill bugs and ensure correctness?” You might have a QA department, but it’s still your job as the developer to ship quality working software. Easily testable software is usually more decoupled, is broken into smaller chunks, and easier to reason about. You need to have a testing plan for all your changes.
+
+写代码之前，问一下自己如下问题：
+
+* 是在“做正确的事吗”？
+* 技术方案是团队认可的吗？
+* 如何让变更对代码的改变更容易评审和理解？
+* 如何测试代码变革以消除bug和错误？
+
 I’ve found that answering these questions ahead of time has saved me a lot of headache in the long run. The last thing you want to do is spend days coding up a change only to have it rejected based on fundamental design flaws or team disagreement. Or for your change to get held up because no one can verify it for correctness. Again, the goal is to change the system while keeping other team members up to date with your changes. Asking yourself about how you’re going to break your work into bite-sized chunks and test those chunks is helpful on many fronts:
 
-It reduces risk
-It makes changes easier to reason about
-It pushes you towards a better design
-You’d rather make many small, precise cuts with a scalpel than one giant gash with a machete. I prefer scalpel driven developement in most additive cases, and like to save the machete for when it’s time to delete large blocks of dead code.
+* It reduces risk
+* It makes changes easier to reason about
+* It pushes you towards a better design
+
+如果变更动作是为了修复系统瑕疵，但却不被认可，也可以询问自己所做的改动是否有如下价值：
+
+* 降低了风险
+* 使变更更加容易
+* 驱使我们做更好的设计
+
+You’d rather make many small, precise cuts with a scalpel than one giant gash with a machete. I prefer scalpel driven development in most additive cases, and like to save the machete for when it’s time to delete large blocks of dead code.
 
 Sending the Pull Request
 Ok, so you’ve gotten buy-in from the team that your changes are good, and you’ve achieved the design you set out to build. What’s the most effective way to actually send your pull request? You’ve been working hard on your changes, and you want other members of your team to pay attention to your pull request and give you fast feedback. How can you do that?
 
-Remember earlier when I said that the most important part of a code review is to keep the team’s collective mental model well aligned? Your other teammates are probably working on something completely different than you, maybe in a completely different part of the system. Their brains are in a completely different context, so you must overcome this by giving them the helpful guidance they need to do the review. This means writing a well-organized description of the changes you made, why you made them and any other relevant information they won’t get from just reading the code alone. Don’t make your teammates do more mental work than they have to.
+Remember earlier when I said that the most important part of a code review is to keep the team’s collective mental model well aligned? Your other team-mates are probably working on something completely different than you, maybe in a completely different part of the system. Their brains are in a completely different context, so you must overcome this by giving them the helpful guidance they need to do the review. This means writing a well-organized description of the changes you made, why you made them and any other relevant information they won’t get from just reading the code alone. Don’t make your team-mates do more mental work than they have to.
 
 Let’s look at some good and bad examples of pull request descriptions:
 
