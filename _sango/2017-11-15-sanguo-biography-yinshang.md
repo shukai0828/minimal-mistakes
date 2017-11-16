@@ -2,7 +2,7 @@
 title: "尹赏"
 date:   2017-11-13 08:55:26
 header:
-  overlay_image: http://oyy3dtfqo.bkt.clouddn.com/s301-1.png
+  overlay_image: http://oyy3dtfqo.bkt.clouddn.com/s2-1.png
   overlay_filter: 0.5
 categories:
   - Games
