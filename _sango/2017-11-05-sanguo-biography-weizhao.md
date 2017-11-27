@@ -15,7 +15,7 @@ gallery:
 
 吴的幕僚。在正史中，避开司马昭之名，以韦曜记述。
 
-{% include gallery caption="韦昭·弘嗣" %}
+{% include gallery caption="page.title" %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 孟获的部下，第三洞的元帅。
 
-{% include gallery caption="阿会喃" %}
+{% include gallery caption="page.title" %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 吴国武将。太史慈之子。
 
-{% include gallery caption="太史亨·元復" %}
+{% include gallery caption="page.title" %}
 
 ## 演义
 
