@@ -13,7 +13,7 @@ gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
-蜀之武将。传佥之父。
+蜀之武将。傅佥之父。
 
 {% include gallery caption="page.title" %}
 
