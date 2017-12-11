@@ -1,7 +1,7 @@
 # main links
 main:
-  #- title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "三国志"
+    url: /sango/
   - title: "关于"
     url: /about/
   # - title: "Sample Posts"
