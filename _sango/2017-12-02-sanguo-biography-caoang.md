@@ -15,7 +15,7 @@ gallery:
 
 曹操之长子。因生母刘氏早逝，由丁氏抚养成人。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

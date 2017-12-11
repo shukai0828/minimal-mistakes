@@ -15,7 +15,7 @@ gallery:
 
 魏臣·辛毘之女，辛敞之姐。魏国太常·羊耽之妻，羊琇之母。晋国名将羊祜为其外甥。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

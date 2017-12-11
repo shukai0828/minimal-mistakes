@@ -15,7 +15,7 @@ gallery:
 
 吴国官僚。别名滕循。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

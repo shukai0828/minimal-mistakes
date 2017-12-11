@@ -15,7 +15,7 @@ gallery:
 
 吴国合浦太守，脩允的私兵队长。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

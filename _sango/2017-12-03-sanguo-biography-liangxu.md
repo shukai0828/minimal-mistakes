@@ -15,7 +15,7 @@ gallery:
 
 天水之武将。於效命魏国後，降於蜀国。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

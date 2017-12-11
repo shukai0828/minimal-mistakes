@@ -15,7 +15,7 @@ gallery:
 
 五斗米道教祖张鲁之弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

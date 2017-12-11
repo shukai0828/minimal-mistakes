@@ -15,7 +15,7 @@ gallery:
 
 魏、晋国武将。陈矫之次男。陈本之弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

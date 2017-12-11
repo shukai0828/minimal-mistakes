@@ -15,7 +15,7 @@ gallery:
 
 袁绍的幕僚·沮授之子。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

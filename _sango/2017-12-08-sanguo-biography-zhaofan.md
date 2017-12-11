@@ -15,7 +15,7 @@ gallery:
 
 东汉之桂阳太守。其兄嫂为樊氏。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

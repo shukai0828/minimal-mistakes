@@ -15,7 +15,7 @@ gallery:
 
 袁绍的幕僚·辛评之弟。後来成为魏臣。辛宪英、辛敞之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 事实上，是为毁灭东汉，並导致群雄割据时代之枭雄。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

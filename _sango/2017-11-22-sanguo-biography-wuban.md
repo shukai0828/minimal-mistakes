@@ -15,7 +15,7 @@ gallery:
 
 蜀国武将。何进的武将吴匡之子，吴懿的族弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 东汉之扬州刺史。刘岱之弟。西汉之齐之孝王末裔。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 吴国武卫士。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

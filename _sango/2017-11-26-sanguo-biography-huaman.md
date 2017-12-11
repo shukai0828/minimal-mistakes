@@ -15,7 +15,7 @@ gallery:
 
 以孟获之女的身份在京剧登场。被远征来雲南的关索所俘，彼此互相吸引。在孟获向蜀军投降後两个人结婚。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

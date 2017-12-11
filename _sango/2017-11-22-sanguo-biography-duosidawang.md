@@ -15,7 +15,7 @@ gallery:
 
 南蛮秃龙洞之洞主。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 曹操之武将。手操八十斤之双铁戟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

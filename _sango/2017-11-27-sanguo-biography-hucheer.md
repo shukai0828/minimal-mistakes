@@ -15,7 +15,7 @@ gallery:
 
 袁术的武将。操使重达五十斤的三尖刀。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

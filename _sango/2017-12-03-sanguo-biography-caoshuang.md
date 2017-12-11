@@ -15,7 +15,7 @@ gallery:
 
 魏国重镇·曹真之子。曹羲、曹训、曹彦之兄。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 凉州军阀之首领之一。马超、马休、马铁之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

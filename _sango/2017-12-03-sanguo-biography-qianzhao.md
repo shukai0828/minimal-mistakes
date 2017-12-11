@@ -15,7 +15,7 @@ gallery:
 
 魏国雁门太守，牵弘之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

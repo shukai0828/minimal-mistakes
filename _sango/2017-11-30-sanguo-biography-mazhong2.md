@@ -15,7 +15,7 @@ gallery:
 
 蜀国武将。别名狐笃。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

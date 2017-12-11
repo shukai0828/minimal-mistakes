@@ -15,7 +15,7 @@ gallery:
 
 东汉之兖州刺史。刘繇之兄。西汉齐孝王之末裔。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

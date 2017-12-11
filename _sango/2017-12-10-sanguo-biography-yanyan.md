@@ -15,7 +15,7 @@ gallery:
 
 刘璋麾下的巴郡太守。後改仕刘备。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

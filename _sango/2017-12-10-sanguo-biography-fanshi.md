@@ -15,7 +15,7 @@ gallery:
 
 桂阳太守·赵範之兄嫂。美人。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 诸葛珪之子，诸葛瑾之弟。诸葛均之兄，诸葛瞻之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

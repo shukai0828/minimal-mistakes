@@ -15,7 +15,7 @@ gallery:
 
 魏国雍州刺史，诸葛冲之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 袁绍长子，袁熙、袁绍之兄。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 马腾之三男。马超、马休之弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

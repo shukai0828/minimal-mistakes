@@ -15,7 +15,7 @@ gallery:
 
 蜀国之第二代皇帝，後主。刘备之子。其母为甘氏。乳名阿斗则是由甘氏於懷胎之时，梦见吞下北斗七星之梦而来。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

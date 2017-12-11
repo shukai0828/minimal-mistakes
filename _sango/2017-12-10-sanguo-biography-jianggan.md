@@ -15,7 +15,7 @@ gallery:
 
 魏国谋臣，周瑜的同窗。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

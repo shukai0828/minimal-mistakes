@@ -15,7 +15,7 @@ gallery:
 
 魏国明帝·曹叡的养子。虽然传说是任城王·曹楷之子，但身世依然是个谜。齐王。魏国第三代皇帝。张皇后是张缉之女。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

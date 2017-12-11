@@ -15,7 +15,7 @@ gallery:
 
 东汉之第十二代皇帝·刘宏。在位１６８～１８９年。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

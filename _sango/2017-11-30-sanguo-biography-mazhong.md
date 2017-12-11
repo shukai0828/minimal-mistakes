@@ -15,7 +15,7 @@ gallery:
 
 吴国潘璋之部下。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

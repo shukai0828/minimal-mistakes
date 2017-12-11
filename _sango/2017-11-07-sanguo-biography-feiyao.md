@@ -15,7 +15,7 @@ gallery:
 
 魏之武将。正史上为费曜。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

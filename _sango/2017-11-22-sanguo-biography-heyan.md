@@ -15,7 +15,7 @@ gallery:
 
 东汉大将军·何进之孙，曹爽的心腹。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

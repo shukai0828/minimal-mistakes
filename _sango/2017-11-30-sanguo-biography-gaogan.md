@@ -15,7 +15,7 @@ gallery:
 
 袁绍的姪子，高柔的堂兄。并州刺史。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

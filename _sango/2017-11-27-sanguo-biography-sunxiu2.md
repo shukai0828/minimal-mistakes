@@ -15,7 +15,7 @@ gallery:
 
 吴国武将。孙权之弟·孙匡之孙。孙泰之子。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

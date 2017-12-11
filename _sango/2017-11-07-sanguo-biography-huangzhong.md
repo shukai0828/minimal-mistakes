@@ -15,7 +15,7 @@ gallery:
 
 刘表的武将。刘表死後服侍长沙太守·韩玄。弓箭名手。在中国为老当益壮者的代名词。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

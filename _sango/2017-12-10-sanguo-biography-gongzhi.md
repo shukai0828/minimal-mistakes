@@ -15,7 +15,7 @@ gallery:
 
 武陵太守·金旋的部下。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

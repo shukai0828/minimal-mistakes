@@ -15,7 +15,7 @@ gallery:
 
 吴国鄱阳太守。周处之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

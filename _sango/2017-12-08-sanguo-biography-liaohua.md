@@ -15,7 +15,7 @@ gallery:
 
 黄巾之武将。尔後效命刘备。别名廖淳、廖惇。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 魏国官僚。杜恕之父、杜预之祖父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

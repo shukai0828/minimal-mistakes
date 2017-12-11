@@ -15,7 +15,7 @@ gallery:
 
 刘表幕僚。尔後服侍於曹操。傅嘏之伯父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

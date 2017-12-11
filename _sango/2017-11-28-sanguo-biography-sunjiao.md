@@ -15,7 +15,7 @@ gallery:
 
 孙静之三男。孙瑜之弟。孙权之堂弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

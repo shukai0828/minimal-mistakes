@@ -15,7 +15,7 @@ gallery:
 
 吴国诸葛瑾的次子，诸葛恪之弟，诸葛亮的外甥。原本字仲慎，成为诸葛亮的养子。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

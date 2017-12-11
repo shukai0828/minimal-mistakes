@@ -15,7 +15,7 @@ gallery:
 
 刘表的武将。苍梧太守，交州刺史。刘备的旧交。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

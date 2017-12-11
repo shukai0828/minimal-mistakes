@@ -15,7 +15,7 @@ gallery:
 
 孙坚的次子。其母为正室的吴氏，孙策之弟。吴国大帝。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

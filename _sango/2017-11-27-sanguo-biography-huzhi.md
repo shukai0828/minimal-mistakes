@@ -15,7 +15,7 @@ gallery:
 
 魏国武将。胡敏之子，胡威之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

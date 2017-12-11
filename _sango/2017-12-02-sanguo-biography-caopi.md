@@ -15,7 +15,7 @@ gallery:
 
 曹操的次子。母亲为卞氏，是曹彰、曹植、曹熊的亲兄长。和甄氏所生下的孩子为曹叡。魏国的初代皇帝·文帝。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

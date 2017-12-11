@@ -15,7 +15,7 @@ gallery:
 
 袁术之姪（正史中为堂弟）。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

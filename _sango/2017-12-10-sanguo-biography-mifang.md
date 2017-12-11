@@ -15,7 +15,7 @@ gallery:
 
 糜竺之弟。与兄长一同服侍於刘备。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

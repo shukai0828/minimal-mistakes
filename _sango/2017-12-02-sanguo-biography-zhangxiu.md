@@ -15,7 +15,7 @@ gallery:
 
 董卓之武将·张济与邹氏之外甥。後服侍曹操。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

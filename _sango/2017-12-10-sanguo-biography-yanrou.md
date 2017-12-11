@@ -15,7 +15,7 @@ gallery:
 
 东汉上谷太守阎志之弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 服侍孙坚、孙策、孙权三代之吴国老臣。程咨之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

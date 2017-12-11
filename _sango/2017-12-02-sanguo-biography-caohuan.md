@@ -15,7 +15,7 @@ gallery:
 
 魏国燕王·曹宇之子。演义中是曹丕之孙，但正史中却是曹操之孙。常道乡公。魏国的第五代皇帝·元帝。原名为曹璜。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

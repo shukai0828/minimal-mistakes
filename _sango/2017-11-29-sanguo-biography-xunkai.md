@@ -15,7 +15,7 @@ gallery:
 
 魏国尚书。荀彧的四子，陈泰之舅。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

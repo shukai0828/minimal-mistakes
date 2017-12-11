@@ -15,7 +15,7 @@ gallery:
 
 益州之豪族。对蜀扬起反旗。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

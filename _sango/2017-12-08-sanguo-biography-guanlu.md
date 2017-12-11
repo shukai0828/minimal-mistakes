@@ -15,7 +15,7 @@ gallery:
 
 魏国方士。占卜名家。相貌醜陋，特異奇行。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

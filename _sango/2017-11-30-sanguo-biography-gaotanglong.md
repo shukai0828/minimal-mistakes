@@ -15,7 +15,7 @@ gallery:
 
 魏国官僚。西汉儒者·高堂生的子孙。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

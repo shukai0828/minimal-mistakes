@@ -15,7 +15,7 @@ gallery:
 
 魏国官僚，朝歌县长。和曹丕交情甚笃。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

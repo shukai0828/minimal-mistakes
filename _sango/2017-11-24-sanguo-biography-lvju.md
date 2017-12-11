@@ -15,7 +15,7 @@ gallery:
 
 吴国重臣吕範之次子。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

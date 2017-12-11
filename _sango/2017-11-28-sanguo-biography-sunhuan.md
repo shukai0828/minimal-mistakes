@@ -15,7 +15,7 @@ gallery:
 
 孙河（俞河。因深得孙策欢心，而得孙姓）的三男。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

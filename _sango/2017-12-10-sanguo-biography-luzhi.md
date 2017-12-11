@@ -15,7 +15,7 @@ gallery:
 
 东汉之中郎将。刘备、公孙瓒之学问导师。卢毓之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 袁绍的堂弟（一说为異母弟），为四世三公的名门。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

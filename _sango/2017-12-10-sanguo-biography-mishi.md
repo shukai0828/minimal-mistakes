@@ -15,7 +15,7 @@ gallery:
 
 刘备之第二夫人（第一夫人为甘氏）。糜竺之妹。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

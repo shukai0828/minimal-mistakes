@@ -15,7 +15,7 @@ gallery:
 
 东汉之名士。黄月英之父。诸葛亮之岳父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 蜀国官僚。原名郤纂。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

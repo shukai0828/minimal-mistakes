@@ -15,7 +15,7 @@ gallery:
 
 吴国武将。张绍长男。张休之兄。因其妻子早逝之故，娶诸葛谨之女为续弦。两人所生之女日後成为孙和之妃。张震之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

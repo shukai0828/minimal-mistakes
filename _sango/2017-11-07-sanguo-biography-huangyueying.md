@@ -15,7 +15,7 @@ gallery:
 
 黄承彦之女，诸葛亮之妻，诸葛瞻之母。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

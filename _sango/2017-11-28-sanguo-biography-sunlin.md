@@ -15,7 +15,7 @@ gallery:
 
 孙坚之弟孙静之曾孙。孙绰之子。丞相孙峻之堂弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

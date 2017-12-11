@@ -15,7 +15,7 @@ gallery:
 
 贾习之孙，贾充之父。魏国谏议大夫。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

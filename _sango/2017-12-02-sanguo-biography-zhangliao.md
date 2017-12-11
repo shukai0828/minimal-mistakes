@@ -15,7 +15,7 @@ gallery:
 
 吕布之武将。尔後服侍曹操。张虎之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

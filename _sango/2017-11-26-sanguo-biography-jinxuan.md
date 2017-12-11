@@ -15,7 +15,7 @@ gallery:
 
 东汉武陵太守。金禕之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

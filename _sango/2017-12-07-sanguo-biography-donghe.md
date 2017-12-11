@@ -15,7 +15,7 @@ gallery:
 
 刘璋之幕僚。尔後服侍刘备。董允之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

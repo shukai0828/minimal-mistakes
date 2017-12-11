@@ -15,7 +15,7 @@ gallery:
 
 东汉之中牟县令。服侍曹操後，转向吕布效命。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

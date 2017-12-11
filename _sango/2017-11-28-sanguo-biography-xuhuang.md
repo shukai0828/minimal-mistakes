@@ -15,7 +15,7 @@ gallery:
 
 魏国武将。操使大斧的能手。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

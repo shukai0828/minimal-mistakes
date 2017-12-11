@@ -15,7 +15,7 @@ gallery:
 
 魏晋官僚。裴潜之子。郭配（郭淮之弟）之婿。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

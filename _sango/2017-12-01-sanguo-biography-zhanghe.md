@@ -15,7 +15,7 @@ gallery:
 
 魏国武将。原为袁绍部下。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

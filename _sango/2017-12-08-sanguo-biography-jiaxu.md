@@ -15,7 +15,7 @@ gallery:
 
 李傕、郭汜的参谋。之後服侍张绣、曹操。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

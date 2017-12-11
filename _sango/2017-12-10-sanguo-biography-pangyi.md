@@ -15,7 +15,7 @@ gallery:
 
 刘璋之武将。其女为刘循之妻。尔後效命於刘备。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 孙权之弟·孙翊之妻。才色兼备並精通占卜。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

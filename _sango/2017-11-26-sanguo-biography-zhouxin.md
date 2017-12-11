@@ -15,7 +15,7 @@ gallery:
 
 会稽太守·王朗的武将。周昂之兄。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

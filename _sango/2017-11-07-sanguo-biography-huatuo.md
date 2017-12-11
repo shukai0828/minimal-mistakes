@@ -15,7 +15,7 @@ gallery:
 
 医生。使用麻醉药「麻沸散」进行外科手术。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 魏国之官僚。曹爽之心腹。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

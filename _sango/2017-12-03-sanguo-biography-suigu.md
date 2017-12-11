@@ -15,7 +15,7 @@ gallery:
 
 河内太守·张杨的武将。原本是黑山山贼。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 蜀国官僚。汉朝司徒邓禹之么孙。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

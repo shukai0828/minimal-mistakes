@@ -15,7 +15,7 @@ gallery:
 
 东汉长沙太守。孙策、孙权之父。吴国的武烈皇帝。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

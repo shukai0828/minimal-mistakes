@@ -15,7 +15,7 @@ gallery:
 
 马腾之长男。马休、马铁之兄。蜀国五虎将军中一人。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

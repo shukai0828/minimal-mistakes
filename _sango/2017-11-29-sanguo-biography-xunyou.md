@@ -15,7 +15,7 @@ gallery:
 
 曹操的幕僚。虽是荀彧的外甥，但比荀彧年长六岁。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

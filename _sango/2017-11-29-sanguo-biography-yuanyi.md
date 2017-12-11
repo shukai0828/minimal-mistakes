@@ -15,7 +15,7 @@ gallery:
 
 袁绍的堂兄，东汉山阳太守。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

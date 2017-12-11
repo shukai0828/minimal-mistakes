@@ -15,7 +15,7 @@ gallery:
 
 蜀国幕僚。马谡之兄。眉色白，人称「白眉」。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

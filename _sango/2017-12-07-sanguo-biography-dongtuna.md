@@ -15,7 +15,7 @@ gallery:
 
 孟获之部下。第二洞之元帅。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

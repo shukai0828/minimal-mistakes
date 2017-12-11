@@ -15,7 +15,7 @@ gallery:
 
 吴国之左将军。孙休之亲信。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

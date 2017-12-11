@@ -15,7 +15,7 @@ gallery:
 
 高定旗下的猛将。身高九尺，擅使方天戟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

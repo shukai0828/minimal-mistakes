@@ -15,7 +15,7 @@ gallery:
 
 孙策的义兄弟，其妻为小乔。扬州的名士。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

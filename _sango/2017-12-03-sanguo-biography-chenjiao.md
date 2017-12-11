@@ -15,7 +15,7 @@ gallery:
 
 魏国幕僚。陈本、陈骞之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 吴国武将。孙河（俞河。自孙策处得孙姓）之外甥。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

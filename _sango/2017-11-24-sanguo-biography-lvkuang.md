@@ -15,7 +15,7 @@ gallery:
 
 袁尚之武将。後效命於曹操。於演义中为吕翔之兄长。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

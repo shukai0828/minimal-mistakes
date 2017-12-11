@@ -15,7 +15,7 @@ gallery:
 
 东汉豫章太守。之後服侍孙策、曹操。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

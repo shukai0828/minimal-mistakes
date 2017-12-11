@@ -15,7 +15,7 @@ gallery:
 
 刘表之武降。尔後服侍曹操。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

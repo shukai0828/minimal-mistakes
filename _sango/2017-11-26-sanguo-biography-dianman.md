@@ -15,7 +15,7 @@ gallery:
 
 曹操之武将。典韦之子。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

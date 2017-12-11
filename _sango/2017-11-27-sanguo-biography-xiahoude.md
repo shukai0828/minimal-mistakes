@@ -15,7 +15,7 @@ gallery:
 
 魏将·夏侯惇之姪，夏侯尚之兄。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

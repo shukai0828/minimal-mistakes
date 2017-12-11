@@ -15,7 +15,7 @@ gallery:
 
 吴之重臣·步骘之子。步协之弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

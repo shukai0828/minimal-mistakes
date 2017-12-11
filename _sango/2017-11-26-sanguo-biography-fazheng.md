@@ -15,7 +15,7 @@ gallery:
 
 刘璋之幕僚。尔後效命刘备。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 刘璋部下的蜀郡太守。後为蜀国司徒。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

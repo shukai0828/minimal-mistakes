@@ -15,7 +15,7 @@ gallery:
 
 东汉司徒袁滂之子。後来为魏国官僚。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

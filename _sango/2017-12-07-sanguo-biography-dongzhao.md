@@ -15,7 +15,7 @@ gallery:
 
 魏国官僚。为眉清目秀之有识之人。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 魏国谋臣·郭嘉之子。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

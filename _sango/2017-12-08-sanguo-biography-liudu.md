@@ -15,7 +15,7 @@ gallery:
 
 东汉之零陵太守。刘贤之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

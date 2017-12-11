@@ -15,7 +15,7 @@ gallery:
 
 魏国重臣。锺毓、锺会之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

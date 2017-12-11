@@ -15,7 +15,7 @@ gallery:
 
 吴国幕僚，与张昭一同並称为「江东二张」之策士。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

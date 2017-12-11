@@ -15,7 +15,7 @@ gallery:
 
 孙策之女。陆逊之妻。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 诸葛诞的武将。西汉长沙王第十六代子孙。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

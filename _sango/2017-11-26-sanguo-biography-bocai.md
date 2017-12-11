@@ -15,7 +15,7 @@ gallery:
 
 黄巾之渠帅（头目）中一人。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 桂阳太守赵範之武将。飞叉好手。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

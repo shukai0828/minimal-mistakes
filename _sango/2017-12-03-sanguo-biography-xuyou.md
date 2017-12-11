@@ -15,7 +15,7 @@ gallery:
 
 袁绍的幕僚。和曹操十分亲近。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

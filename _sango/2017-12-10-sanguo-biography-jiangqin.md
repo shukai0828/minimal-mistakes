@@ -15,7 +15,7 @@ gallery:
 
 吴国武将。原为扬子江的江贼。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

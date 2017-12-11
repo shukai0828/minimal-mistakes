@@ -15,7 +15,7 @@ gallery:
 
 孙坚的属臣，後改仕曹操。桓嘉之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

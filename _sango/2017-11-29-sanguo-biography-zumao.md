@@ -15,7 +15,7 @@ gallery:
 
 孙坚的武将。操使二刀流的能手。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

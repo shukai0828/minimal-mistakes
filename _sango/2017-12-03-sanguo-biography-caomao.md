@@ -15,7 +15,7 @@ gallery:
 
 魏文帝·曹丕之孙，曹霖之子。高贵乡公，第四代皇帝。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

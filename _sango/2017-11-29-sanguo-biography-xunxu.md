@@ -15,7 +15,7 @@ gallery:
 
 魏国从事中郎。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

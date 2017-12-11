@@ -15,7 +15,7 @@ gallery:
 
 蜀国官僚。和诸葛亮、费禕、董允並称「蜀国四相」。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

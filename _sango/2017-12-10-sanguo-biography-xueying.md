@@ -15,7 +15,7 @@ gallery:
 
 吴国官吏·薛综之子，薛珝之弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

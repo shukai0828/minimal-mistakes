@@ -15,7 +15,7 @@ gallery:
 
 孙权之长男。孙和、孙霸、孙休、孙亮之兄。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

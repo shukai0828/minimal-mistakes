@@ -15,7 +15,7 @@ gallery:
 
 三国志之最强武将。成为丁原、董卓养子。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

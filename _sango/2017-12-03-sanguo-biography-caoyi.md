@@ -15,7 +15,7 @@ gallery:
 
 魏国重臣·曹真之子。曹爽之弟，曹训、曹彦之兄。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

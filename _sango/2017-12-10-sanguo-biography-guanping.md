@@ -15,7 +15,7 @@ gallery:
 
 居住在河北国境的关定之次子，关羽之养子。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

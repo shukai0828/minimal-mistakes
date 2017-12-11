@@ -15,7 +15,7 @@ gallery:
 
 魏国之并州刺史。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

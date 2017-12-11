@@ -15,7 +15,7 @@ gallery:
 
 黄巾武将，白波的头目。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

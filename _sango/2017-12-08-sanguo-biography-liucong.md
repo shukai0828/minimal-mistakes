@@ -15,7 +15,7 @@ gallery:
 
 荆州刺史刘表之次男。刘琦之弟。其母为蔡氏。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

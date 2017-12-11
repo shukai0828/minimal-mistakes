@@ -15,7 +15,7 @@ gallery:
 
 魏之武将。庞德四子中之一人。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

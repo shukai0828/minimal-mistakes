@@ -15,7 +15,7 @@ gallery:
 
 孙坚之妻·吴氏之弟。孙策、孙权的叔父。丹阳太守。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

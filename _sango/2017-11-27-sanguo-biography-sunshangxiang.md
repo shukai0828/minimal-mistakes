@@ -15,7 +15,7 @@ gallery:
 
 孙坚之女。其母为吴国太。为孙策、孙权、孙翊、孙匡之同父異母之妹。孙朗之亲妹。因拥有武功優異人称「弓腰姬」
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

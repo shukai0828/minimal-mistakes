@@ -15,7 +15,7 @@ gallery:
 
 曹操的谋臣。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

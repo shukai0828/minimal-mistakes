@@ -15,7 +15,7 @@ gallery:
 
 东汉大臣。武陵太守·金旋之子。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

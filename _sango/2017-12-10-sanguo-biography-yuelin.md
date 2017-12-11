@@ -15,7 +15,7 @@ gallery:
 
 魏国武将。乐进之子。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

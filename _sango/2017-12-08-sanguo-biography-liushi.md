@@ -15,7 +15,7 @@ gallery:
 
 袁绍之侧室。袁尚之母。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

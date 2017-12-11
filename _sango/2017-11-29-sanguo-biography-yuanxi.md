@@ -15,7 +15,7 @@ gallery:
 
 袁绍次子，袁谭之弟，袁尚之兄。为甄氏之夫。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

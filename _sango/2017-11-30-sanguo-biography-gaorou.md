@@ -15,7 +15,7 @@ gallery:
 
 魏国官僚。高靖之子，高幹的堂弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

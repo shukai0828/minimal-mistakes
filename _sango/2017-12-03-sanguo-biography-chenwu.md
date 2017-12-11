@@ -15,7 +15,7 @@ gallery:
 
 吴国武将。陈脩，陈表之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 卫凯（正史中为卫觊）之子，魏臣。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

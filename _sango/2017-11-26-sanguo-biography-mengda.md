@@ -15,7 +15,7 @@ gallery:
 
 刘璋之武将。尔後服侍刘备、曹丕。本名子庆。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

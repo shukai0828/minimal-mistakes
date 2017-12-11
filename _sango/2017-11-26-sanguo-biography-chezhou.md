@@ -15,7 +15,7 @@ gallery:
 
 东汉徐州刺史。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 曹操的四子。母亲是卞氏。曹丕、曹彰之弟，曹熊之兄。是代表建安文学的诗人。临淄侯。陈王。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

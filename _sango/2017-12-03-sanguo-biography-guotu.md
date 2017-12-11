@@ -15,7 +15,7 @@ gallery:
 
 袁绍的参谋。袁绍死後服侍袁谭。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

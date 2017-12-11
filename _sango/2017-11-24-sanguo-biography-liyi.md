@@ -15,7 +15,7 @@ gallery:
 
 吴国武将。使用金色之斧。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 魏国科学家。亦写为马均。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

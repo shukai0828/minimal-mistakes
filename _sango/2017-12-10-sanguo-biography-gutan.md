@@ -15,7 +15,7 @@ gallery:
 
 吴国丞相·顾雍之子。「吴之四姓」的顾家之後。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

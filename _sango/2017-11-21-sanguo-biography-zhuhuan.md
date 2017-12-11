@@ -15,7 +15,7 @@ gallery:
 
 吴国武将，朱異之父。「吴之四姓」的朱家之後。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 桂阳太守·赵範之武将。猎师出身，为射杀两头老虎之武勇之士。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

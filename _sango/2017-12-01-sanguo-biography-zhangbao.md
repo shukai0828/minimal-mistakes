@@ -15,7 +15,7 @@ gallery:
 
 张飞之长男。张绍之兄。张遵之父。关兴之义兄。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

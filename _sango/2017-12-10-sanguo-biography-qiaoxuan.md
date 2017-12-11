@@ -15,7 +15,7 @@ gallery:
 
 东汉之太尉。将曹操评论为「天下将乱能安之者，其在君乎！」。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

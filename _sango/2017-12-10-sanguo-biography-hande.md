@@ -15,7 +15,7 @@ gallery:
 
 魏臣，西凉大将。韩瑛、韩瑶、韩琼、韩琪之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

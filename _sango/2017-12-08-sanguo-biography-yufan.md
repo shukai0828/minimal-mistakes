@@ -15,7 +15,7 @@ gallery:
 
 会稽太守·王朗的郡吏。後仕於吴国。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

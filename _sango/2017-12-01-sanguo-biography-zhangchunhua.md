@@ -15,7 +15,7 @@ gallery:
 
 司马懿之妻。司马师、昭之母。晋国之宣穆张皇后。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

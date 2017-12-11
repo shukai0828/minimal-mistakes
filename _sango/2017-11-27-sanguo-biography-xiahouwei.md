@@ -15,7 +15,7 @@ gallery:
 
 魏将·夏侯渊之子。夏侯威、夏侯惠和夏侯和之兄。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

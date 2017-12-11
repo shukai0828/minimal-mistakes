@@ -15,7 +15,7 @@ gallery:
 
 凉州刺史·韦康之幕僚。尔後为魏国效命。杨岳之堂兄。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

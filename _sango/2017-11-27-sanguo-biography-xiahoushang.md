@@ -15,7 +15,7 @@ gallery:
 
 魏将·夏侯惇（正史为夏侯渊）的姪子。夏侯德之弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

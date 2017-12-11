@@ -15,7 +15,7 @@ gallery:
 
 东汉之第十四代皇帝刘协。字伯和。灵帝之次子。其母为王氏。在位１８９～２２０年。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

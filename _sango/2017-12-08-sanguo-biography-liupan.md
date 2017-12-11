@@ -15,7 +15,7 @@ gallery:
 
 刘表之外甥。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

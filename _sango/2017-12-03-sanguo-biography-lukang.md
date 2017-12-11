@@ -15,7 +15,7 @@ gallery:
 
 吴国武将。陆逊之次男。孙策之外孙。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

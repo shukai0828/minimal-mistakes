@@ -15,7 +15,7 @@ gallery:
 
 东汉大将军。为灵帝的皇后即生下刘辩（少帝）的何皇后的異母之兄。原本经营肉店，藉由宦官之助成为外戚。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

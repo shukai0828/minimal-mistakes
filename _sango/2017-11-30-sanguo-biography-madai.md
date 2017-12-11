@@ -15,7 +15,7 @@ gallery:
 
 马超之堂兄弟。马腾兄之子。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

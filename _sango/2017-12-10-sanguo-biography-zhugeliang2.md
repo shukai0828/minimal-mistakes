@@ -15,7 +15,7 @@ gallery:
 
 魏国武将·诸葛诞之子。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

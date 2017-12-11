@@ -15,7 +15,7 @@ gallery:
 
 董卓之武将。张绣叔父。其妻为邹氏。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

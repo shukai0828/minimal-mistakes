@@ -15,7 +15,7 @@ gallery:
 
 董卓之武将。与吕布同乡。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

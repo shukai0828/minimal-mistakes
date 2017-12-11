@@ -15,7 +15,7 @@ gallery:
 
 扬州刺史·刘繇的武将。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

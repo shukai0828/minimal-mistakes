@@ -15,7 +15,7 @@ gallery:
 
 马腾之次男。马超之弟。马铁之兄。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

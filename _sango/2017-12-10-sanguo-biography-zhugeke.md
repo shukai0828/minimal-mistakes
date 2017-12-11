@@ -15,7 +15,7 @@ gallery:
 
 吴国官僚。诸葛瑾的长子，诸葛乔之兄，诸葛亮的外甥。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

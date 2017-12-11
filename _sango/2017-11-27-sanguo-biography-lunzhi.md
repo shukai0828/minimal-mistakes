@@ -15,7 +15,7 @@ gallery:
 
 公孙渊之参军。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

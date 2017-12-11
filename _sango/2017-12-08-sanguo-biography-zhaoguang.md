@@ -15,7 +15,7 @@ gallery:
 
 蜀国武将。赵雲之次男。赵统之弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

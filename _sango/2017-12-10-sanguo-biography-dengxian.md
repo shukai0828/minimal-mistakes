@@ -15,7 +15,7 @@ gallery:
 
 蜀国武将。孟达之外甥。尔後为魏国效命。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

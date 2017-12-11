@@ -15,7 +15,7 @@ gallery:
 
 魏国重臣·锺繇的么子，锺毓之弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

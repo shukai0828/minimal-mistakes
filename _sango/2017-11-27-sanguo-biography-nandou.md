@@ -15,7 +15,7 @@ gallery:
 
 掌管生育之神。身著红衣装扮美丽。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 吴国武将，扬子江的江贼。周平之兄。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

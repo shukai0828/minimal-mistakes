@@ -15,7 +15,7 @@ gallery:
 
 吴国官僚。丞相。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

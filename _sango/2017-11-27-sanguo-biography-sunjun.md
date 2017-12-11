@@ -15,7 +15,7 @@ gallery:
 
 孙坚之弟·孙静之曾孙。孙恭之子。孙綝之堂兄。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 孟获之妻·祝融之弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 架空之人物。马腾之女。马超、马休、马铁之妹。有如天仙般美貌及優秀武艺。当马腾、马休、马铁遭曹操之计谋遇害後，追随马超挑发復仇战。败於曹操後，与马超、马岱一同归属刘备军。与於益州攻略战时相识之赵雲结婚，同赵雲於荆州战鬥。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

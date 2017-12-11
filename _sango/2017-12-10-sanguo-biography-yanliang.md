@@ -15,7 +15,7 @@ gallery:
 
 和文醜並称为袁绍军的双璧猛将。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

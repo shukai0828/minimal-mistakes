@@ -15,7 +15,7 @@ gallery:
 
 孙权之武将。陈国相·骆俊之子。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

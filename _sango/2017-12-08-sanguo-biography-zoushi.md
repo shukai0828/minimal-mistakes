@@ -15,7 +15,7 @@ gallery:
 
 董卓的武将·张济之妻，张绣的叔母。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

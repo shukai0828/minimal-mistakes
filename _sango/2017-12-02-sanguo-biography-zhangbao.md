@@ -15,7 +15,7 @@ gallery:
 
 黄巾首领张角之次弟。张梁之兄。地公将军。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

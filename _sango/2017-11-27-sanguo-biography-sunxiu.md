@@ -15,7 +15,7 @@ gallery:
 
 孙权的六子。孙登、孙和、孙霸之弟，孙亮之兄。吴国的第三代皇帝·景帝。孙弯之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

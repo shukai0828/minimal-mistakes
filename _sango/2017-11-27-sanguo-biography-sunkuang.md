@@ -15,7 +15,7 @@ gallery:
 
 孙坚的四子。母亲为正室的吴氏。孙策、权、翊之弟，孙朗、孙尚香之兄。孙泰之父，孙秀的祖父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

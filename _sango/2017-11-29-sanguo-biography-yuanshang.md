@@ -15,7 +15,7 @@ gallery:
 
 袁绍三子，为袁谭、袁熙之弟。母亲为刘氏。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

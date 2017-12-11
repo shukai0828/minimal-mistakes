@@ -15,7 +15,7 @@ gallery:
 
 吴国武将。陈武之妾所生之子。陈脩之弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

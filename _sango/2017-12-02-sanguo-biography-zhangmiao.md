@@ -15,7 +15,7 @@ gallery:
 
 东汉之陈留太守。清流派名士，为「八厨」中之一人。袁绍、曹操之友。广陵太守张超之兄。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

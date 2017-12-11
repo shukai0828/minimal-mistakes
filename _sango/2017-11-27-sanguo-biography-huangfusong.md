@@ -15,7 +15,7 @@ gallery:
 
 东汉官僚。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

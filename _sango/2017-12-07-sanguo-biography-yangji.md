@@ -15,7 +15,7 @@ gallery:
 
 晋国武将。司马炎之杨皇后之叔父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

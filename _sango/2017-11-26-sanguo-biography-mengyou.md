@@ -15,7 +15,7 @@ gallery:
 
 南蛮王·孟获之弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

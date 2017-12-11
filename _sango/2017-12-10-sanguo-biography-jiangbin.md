@@ -15,7 +15,7 @@ gallery:
 
 蜀国四相之一·蒋琬之子，蒋显之兄。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

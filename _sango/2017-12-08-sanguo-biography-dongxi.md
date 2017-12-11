@@ -15,7 +15,7 @@ gallery:
 
 吴国武将。身高八尺（１９０cm）。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

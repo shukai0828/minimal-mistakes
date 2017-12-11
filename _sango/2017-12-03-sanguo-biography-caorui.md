@@ -15,7 +15,7 @@ gallery:
 
 曹操之孙，曹丕和甄氏之子。魏国的第二代皇帝·明帝。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

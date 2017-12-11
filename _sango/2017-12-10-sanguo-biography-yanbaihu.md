@@ -15,7 +15,7 @@ gallery:
 
 以「东吴德王」自称佔领吴国。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

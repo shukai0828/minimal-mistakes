@@ -15,7 +15,7 @@ gallery:
 
 蜀之武将。傅彤之子。使用四角铁简（铁扇）。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 霍弋之父。原为刘表武将，後改仕刘备。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

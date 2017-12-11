@@ -15,7 +15,7 @@ gallery:
 
 荆州刺史。西汉鲁国恭王之子孙。刘琦、刘琮之父。蔡氏为後母。与陈翔、孔昱等人並称之「江夏八俊」中之一人。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

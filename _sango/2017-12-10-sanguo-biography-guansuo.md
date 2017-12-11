@@ -15,7 +15,7 @@ gallery:
 
 关羽的三子。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

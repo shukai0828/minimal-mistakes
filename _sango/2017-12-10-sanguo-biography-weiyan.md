@@ -15,7 +15,7 @@ gallery:
 
 原是刘表的武将。改仕韩玄後，加入刘备军。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 曹操之族子。曹邵（原名秦伯南）之子。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

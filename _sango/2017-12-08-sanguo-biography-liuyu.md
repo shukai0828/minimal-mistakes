@@ -15,7 +15,7 @@ gallery:
 
 东汉之幽州牧。东海恭王刘彊（东汉光武帝之子）之子孙。刘和之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

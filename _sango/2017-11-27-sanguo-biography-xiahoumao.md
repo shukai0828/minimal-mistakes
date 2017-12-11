@@ -15,7 +15,7 @@ gallery:
 
 夏侯渊之子，夏侯惇的养子。其妻为曹操之女·清河公主。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

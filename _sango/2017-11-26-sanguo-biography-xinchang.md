@@ -15,7 +15,7 @@ gallery:
 
 魏臣·辛毘之子，辛宪英之弟。为曹爽的参军。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

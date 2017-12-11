@@ -15,7 +15,7 @@ gallery:
 
 魏国名将·张辽之子。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

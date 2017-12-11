@@ -15,7 +15,7 @@ gallery:
 
 曹操的三子。母亲是卞氏。曹丕之弟，曹植、曹熊之兄。武艺優秀可赤手空拳打倒猛兽。因鬍鬚是黄色，故被曹操称为「黄鬚兒」。任城王。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

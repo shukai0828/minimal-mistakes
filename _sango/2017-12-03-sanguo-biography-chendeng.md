@@ -15,7 +15,7 @@ gallery:
 
 徐州名士。陈珪之子。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

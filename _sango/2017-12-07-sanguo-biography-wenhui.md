@@ -15,7 +15,7 @@ gallery:
 
 温恕之子，温生之父。为魏国之臣。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

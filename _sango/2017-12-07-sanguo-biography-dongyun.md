@@ -15,7 +15,7 @@ gallery:
 
 董和之子。与诸葛亮、蒋琬、费禕並称「蜀国四相」。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

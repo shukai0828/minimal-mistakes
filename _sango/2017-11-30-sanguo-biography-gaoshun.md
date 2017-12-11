@@ -15,7 +15,7 @@ gallery:
 
 吕布的武将。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

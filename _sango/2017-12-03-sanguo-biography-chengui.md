@@ -15,7 +15,7 @@ gallery:
 
 东汉之济北相。徐州名士。陈登之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

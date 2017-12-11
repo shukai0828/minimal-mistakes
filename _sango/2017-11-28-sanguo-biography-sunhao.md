@@ -15,7 +15,7 @@ gallery:
 
 孙和之子，孙权之孙。吴国第四代皇帝。幼名为彭祖。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

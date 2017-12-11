@@ -15,7 +15,7 @@ gallery:
 
 刘备的幕僚。司马徽的弟子，是诸葛亮、庞统的学友。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

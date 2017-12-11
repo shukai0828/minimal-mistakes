@@ -15,7 +15,7 @@ gallery:
 
 袁术的堂兄（一说为亲兄），为四世三公的名门，曹操之友。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

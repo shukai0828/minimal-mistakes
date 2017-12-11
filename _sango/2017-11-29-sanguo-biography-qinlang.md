@@ -15,7 +15,7 @@ gallery:
 
 魏国武将，幼名阿苏。吕布的武将·秦宜禄之子。母亲杜氏为曹操的侧室。其母杜氏也曾为关羽所望成为自己之妻。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

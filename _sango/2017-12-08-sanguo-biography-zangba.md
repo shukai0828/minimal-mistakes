@@ -15,7 +15,7 @@ gallery:
 
 吕布的武将。後来服侍曹操。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 黄巾大将·张宝的武将，後改仕关羽。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

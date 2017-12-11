@@ -15,7 +15,7 @@ gallery:
 
 益州牧刘焉之子。刘範、刘诞、刘瑁之弟。刘循之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

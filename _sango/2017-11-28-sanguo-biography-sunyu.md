@@ -15,7 +15,7 @@ gallery:
 
 孙坚之弟孙静的次男。孙权的堂哥。孙皎的哥哥。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

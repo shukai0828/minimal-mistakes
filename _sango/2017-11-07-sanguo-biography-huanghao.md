@@ -15,7 +15,7 @@ gallery:
 
 蜀国宦官。受刘禅所宠爱。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

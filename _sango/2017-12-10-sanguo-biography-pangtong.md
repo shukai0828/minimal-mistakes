@@ -15,7 +15,7 @@ gallery:
 
 刘备之参谋。司马徽之门人。庞德公之外甥。与「伏龙」诸葛亮名齐人称「凤雏」。其貌不扬。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

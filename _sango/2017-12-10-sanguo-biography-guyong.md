@@ -15,7 +15,7 @@ gallery:
 
 吴国之臣。顾邵、谭、承之父。为「吴之四姓」的顾家之後。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

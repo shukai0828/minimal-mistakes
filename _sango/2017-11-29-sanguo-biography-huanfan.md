@@ -15,7 +15,7 @@ gallery:
 
 魏国大臣，曹爽的心腹。被称为智囊的策士。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

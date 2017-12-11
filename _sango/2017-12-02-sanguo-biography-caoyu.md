@@ -15,7 +15,7 @@ gallery:
 
 演义中虽为曹丕之子，但正史中是曹操之子，母亲是环氏。其妻是张鲁之女。其子曹奂（曹璜）为魏国最後一位皇帝。燕王。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

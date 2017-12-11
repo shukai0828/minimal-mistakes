@@ -15,7 +15,7 @@ gallery:
 
 魏国武将。胡遵之子，胡奋之弟，胡渊之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

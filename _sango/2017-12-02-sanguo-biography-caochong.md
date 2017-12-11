@@ -15,7 +15,7 @@ gallery:
 
 曹操之子，母亲为环氏。曹据、曹宇之兄。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

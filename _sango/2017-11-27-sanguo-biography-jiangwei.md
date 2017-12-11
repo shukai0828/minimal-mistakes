@@ -15,7 +15,7 @@ gallery:
 
 魏国天水太守·马遵的部下。後为蜀将。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

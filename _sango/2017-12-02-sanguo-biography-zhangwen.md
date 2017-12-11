@@ -15,7 +15,7 @@ gallery:
 
 吴国官僚。「吴之四姓」中张家之後。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

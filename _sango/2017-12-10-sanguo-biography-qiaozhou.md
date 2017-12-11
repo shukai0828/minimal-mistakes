@@ -15,7 +15,7 @@ gallery:
 
 蜀国官僚、学者，原为刘璋部下。通天文。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 吴国武将。孙韶之子，孙楷之弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

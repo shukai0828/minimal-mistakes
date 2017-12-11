@@ -15,7 +15,7 @@ gallery:
 
 曹操的重臣。夏侯惇的堂弟。夏侯霸、威、惠、和之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

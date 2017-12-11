@@ -15,7 +15,7 @@ gallery:
 
 蜀国官僚。尔後为晋国效命。正史「三国志」作者。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

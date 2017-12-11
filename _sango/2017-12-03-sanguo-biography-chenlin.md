@@ -15,7 +15,7 @@ gallery:
 
 东汉官僚。服侍袁绍、曹操。建安七子之一。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

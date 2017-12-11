@@ -15,7 +15,7 @@ gallery:
 
 孙坚之庶子。其母为续弦之吴氏（吴国太）。孙策、孙权、孙翊、孙匡之同父異母之弟。孙尚香之亲兄。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

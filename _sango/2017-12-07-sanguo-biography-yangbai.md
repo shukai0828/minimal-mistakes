@@ -15,7 +15,7 @@ gallery:
 
 张鲁之武将。正史中之名为杨白。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

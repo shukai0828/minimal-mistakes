@@ -15,7 +15,7 @@ gallery:
 
 吴国重臣·张昭之么子。张承之弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

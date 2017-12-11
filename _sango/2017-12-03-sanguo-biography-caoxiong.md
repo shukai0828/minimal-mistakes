@@ -15,7 +15,7 @@ gallery:
 
 曹操的五子。母亲为卞氏。是曹丕、曹彰、曹植之弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

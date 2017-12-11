@@ -15,7 +15,7 @@ gallery:
 
 曹操之幕僚。阜陵王刘延（东汉光武帝之子）之末裔。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 东汉末流行之批评人物大家。许靖之堂弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

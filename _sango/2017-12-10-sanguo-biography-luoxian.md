@@ -15,7 +15,7 @@ gallery:
 
 蜀国武将。尔後效命於魏晋。罗蒙之子。罗袭之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

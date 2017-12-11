@@ -15,7 +15,7 @@ gallery:
 
 东汉之群雄。西汉鲁国恭王之子孙。刘璋之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

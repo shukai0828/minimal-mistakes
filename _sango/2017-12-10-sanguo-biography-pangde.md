@@ -15,7 +15,7 @@ gallery:
 
 马超心腹。尔後服侍於张鲁、曹操。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

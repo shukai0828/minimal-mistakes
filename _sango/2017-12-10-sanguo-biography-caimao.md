@@ -15,7 +15,7 @@ gallery:
 
 刘表的武将。刘表的续絃·蔡氏之弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

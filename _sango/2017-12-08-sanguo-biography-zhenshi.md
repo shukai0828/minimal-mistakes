@@ -15,7 +15,7 @@ gallery:
 
 甄逸之女，为绝世美人。甄家是汉朝名门。原袁熙之妻，後为曹丕之妻，生下曹叡、东乡公主。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 刘表的武将，江夏太守。黄射之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

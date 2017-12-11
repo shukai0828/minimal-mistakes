@@ -15,7 +15,7 @@ gallery:
 
 袁绍幕僚。尔後服侍刘备。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

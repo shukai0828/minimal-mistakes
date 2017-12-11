@@ -15,7 +15,7 @@ gallery:
 
 荆州刺史刘表之长子。刘琮之兄。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

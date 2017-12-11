@@ -15,7 +15,7 @@ gallery:
 
 牵招的次子。魏国陇西太守。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

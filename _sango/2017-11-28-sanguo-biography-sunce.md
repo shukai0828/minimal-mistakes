@@ -15,7 +15,7 @@ gallery:
 
 孙坚之长男。孙权之兄。其妻为大乔。吴之长沙桓王。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

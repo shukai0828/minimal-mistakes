@@ -15,7 +15,7 @@ gallery:
 
 东汉之幽州牧·刘虞之子。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

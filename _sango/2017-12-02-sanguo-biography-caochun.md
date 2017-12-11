@@ -15,7 +15,7 @@ gallery:
 
 曹操的武将，曹仁之弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 刘备、关羽之义弟。张苞、张绍之父。正史中字为益德。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

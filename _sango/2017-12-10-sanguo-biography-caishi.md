@@ -15,7 +15,7 @@ gallery:
 
 刘表的续絃，蔡瑁之姐。刘琦的义母，刘琮之母。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

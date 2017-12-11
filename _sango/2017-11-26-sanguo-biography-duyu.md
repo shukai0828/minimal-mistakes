@@ -15,7 +15,7 @@ gallery:
 
 晋国武将。杜畿之孙，杜恕之子。司马懿之婿。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

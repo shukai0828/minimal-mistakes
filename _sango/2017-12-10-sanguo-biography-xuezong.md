@@ -15,7 +15,7 @@ gallery:
 
 吴国官吏，薛珝、薛莹之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

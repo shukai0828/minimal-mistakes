@@ -15,7 +15,7 @@ gallery:
 
 吴国中常侍（宦官）。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

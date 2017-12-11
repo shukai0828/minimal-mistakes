@@ -15,7 +15,7 @@ gallery:
 
 曹操之武将。李乾之外甥。李整之堂兄弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

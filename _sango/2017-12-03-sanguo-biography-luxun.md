@@ -15,7 +15,7 @@ gallery:
 
 吴国武将。本名陆议。「吴之四姓」陆家出身。代替年少之堂兄弟·陆绩率领其一家族。陆抗之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

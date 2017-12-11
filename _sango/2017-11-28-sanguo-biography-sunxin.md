@@ -15,7 +15,7 @@ gallery:
 
 吴国武将。孙贲之孙，孙邻之子，孙述、孙震之弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

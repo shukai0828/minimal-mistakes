@@ -15,7 +15,7 @@ gallery:
 
 魏将·夏侯尚之子。曹爽的堂兄弟。清谈家。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

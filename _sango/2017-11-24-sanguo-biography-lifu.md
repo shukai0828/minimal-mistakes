@@ -15,7 +15,7 @@ gallery:
 
 袁尚之幕僚。尔後服侍於曹操。本姓为冯。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

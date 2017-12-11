@@ -15,7 +15,7 @@ gallery:
 
 为自称「东吴德王」的严白虎之弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

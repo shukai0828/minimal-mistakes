@@ -15,7 +15,7 @@ gallery:
 
 袁绍的武将，周昕之弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

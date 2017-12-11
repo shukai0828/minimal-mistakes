@@ -15,7 +15,7 @@ gallery:
 
 李傕之武将。东汉之骑都尉。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

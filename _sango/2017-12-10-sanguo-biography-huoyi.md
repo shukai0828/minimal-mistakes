@@ -15,7 +15,7 @@ gallery:
 
 霍峻之子。蜀国建寧太守。演义中为霍戈。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

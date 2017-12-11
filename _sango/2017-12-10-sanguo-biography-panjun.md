@@ -15,7 +15,7 @@ gallery:
 
 关羽之部下。尔後为吴国效命。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

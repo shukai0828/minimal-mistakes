@@ -15,7 +15,7 @@ gallery:
 
 孙坚的第二夫人，孙朗、孙仁（孙尚香）之母。姐姐吴氏是孙坚的第一夫人，生下孙权、孙翊。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

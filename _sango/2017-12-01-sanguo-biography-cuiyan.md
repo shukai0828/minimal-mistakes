@@ -15,7 +15,7 @@ gallery:
 
 魏国官僚。崔林的堂兄，郑玄的弟子。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

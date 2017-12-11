@@ -15,7 +15,7 @@ gallery:
 
 吴国官僚。「吴之四姓」陆家出身。陆康之子。陆逊之堂兄弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

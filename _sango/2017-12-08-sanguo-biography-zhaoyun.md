@@ -15,7 +15,7 @@ gallery:
 
 赵统、赵广之父。蜀国五虎将军之一。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 关羽之孙，关兴之子。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 吴国官吏。诸葛恪、乔之父，诸葛亮、均之兄。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

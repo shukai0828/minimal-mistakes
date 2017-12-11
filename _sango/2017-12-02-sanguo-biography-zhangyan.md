@@ -15,7 +15,7 @@ gallery:
 
 响应黄巾之乱而蜂起之黑山贼将领。本名为褚燕，接掌张牛角位成为黑山贼首领，改名张燕。因武功高强行动敏捷，故人称「张飞燕」。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

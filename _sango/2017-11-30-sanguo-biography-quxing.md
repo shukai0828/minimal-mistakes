@@ -15,7 +15,7 @@ gallery:
 
 东汉末在长沙举兵反叛。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

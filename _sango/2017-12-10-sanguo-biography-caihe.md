@@ -15,7 +15,7 @@ gallery:
 
 刘表的重镇·蔡瑁的堂弟。和蔡中是兄弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

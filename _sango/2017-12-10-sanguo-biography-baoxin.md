@@ -15,7 +15,7 @@ gallery:
 
 东汉济北之相。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

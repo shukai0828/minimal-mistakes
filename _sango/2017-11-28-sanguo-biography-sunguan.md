@@ -15,7 +15,7 @@ gallery:
 
 和吕布联手的泰山山贼。之後服侍曹操。孙毓之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

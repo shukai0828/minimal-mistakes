@@ -15,7 +15,7 @@ gallery:
 
 魏国幕僚。程昱之子。程晓之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

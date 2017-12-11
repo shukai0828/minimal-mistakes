@@ -15,7 +15,7 @@ gallery:
 
 东汉官吏，後改仕袁绍。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

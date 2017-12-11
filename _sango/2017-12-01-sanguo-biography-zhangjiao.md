@@ -15,7 +15,7 @@ gallery:
 
 黄巾之乱之指导者，太平道教祖。张宝、张梁之兄。自称天公将军。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

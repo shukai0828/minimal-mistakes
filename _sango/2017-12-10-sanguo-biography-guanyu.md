@@ -15,7 +15,7 @@ gallery:
 
 刘备的义弟，张飞的义兄。关平、关兴、关索之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

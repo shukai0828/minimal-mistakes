@@ -15,7 +15,7 @@ gallery:
 
 蜀国越巂太守。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

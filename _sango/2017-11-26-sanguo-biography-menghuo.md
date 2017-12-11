@@ -15,7 +15,7 @@ gallery:
 
 南中之土豪（演义中为南蛮王）。祝融之夫婿。孟優之兄。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

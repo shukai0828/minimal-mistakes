@@ -15,7 +15,7 @@ gallery:
 
 魏国武将。胡烈之父，胡渊的祖父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

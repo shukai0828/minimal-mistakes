@@ -15,7 +15,7 @@ gallery:
 
 女流诗人。学者·蔡邕之女，原卫道玠之妻。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

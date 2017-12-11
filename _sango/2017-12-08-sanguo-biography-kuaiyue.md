@@ -15,7 +15,7 @@ gallery:
 
 蒯良之弟，刘表的幕僚。通晓观马相术。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 蜀国武将。张飞之孙，张苞之子。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

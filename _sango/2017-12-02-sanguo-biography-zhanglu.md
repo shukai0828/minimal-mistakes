@@ -15,7 +15,7 @@ gallery:
 
 东汉之汉寧太守。五斗米道之祖·张陵之孙。张卫之兄。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

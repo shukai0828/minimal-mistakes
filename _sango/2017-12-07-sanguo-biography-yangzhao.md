@@ -15,7 +15,7 @@ gallery:
 
 晋国武将。杨暨之子。杨潭、杨歆之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

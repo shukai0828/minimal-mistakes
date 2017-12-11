@@ -15,7 +15,7 @@ gallery:
 
 刘禅之长男。刘谌之兄。其母为王氏。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

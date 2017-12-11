@@ -15,7 +15,7 @@ gallery:
 
 益州牧刘璋之长子。刘阐之兄。其妻为庞羲之女。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

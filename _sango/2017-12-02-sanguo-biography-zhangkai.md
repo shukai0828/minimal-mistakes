@@ -15,7 +15,7 @@ gallery:
 
 徐州太守陶谦之部下。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

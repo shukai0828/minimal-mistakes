@@ -15,7 +15,7 @@ gallery:
 
 服侍东汉司徒·王允之歌姬。擅长歌舞之美女。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 诸葛诞的武将。後改仕晋国。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

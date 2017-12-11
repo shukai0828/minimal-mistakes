@@ -15,7 +15,7 @@ gallery:
 
 关羽之子·关兴的庶子。蜀国汉寿亭侯。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

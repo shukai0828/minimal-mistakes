@@ -15,7 +15,7 @@ gallery:
 
 後改名为艳，为韩遂的女婿。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

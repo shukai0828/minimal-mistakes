@@ -15,7 +15,7 @@ gallery:
 
 刘表的部下·黄祖的武将。江夏都督。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

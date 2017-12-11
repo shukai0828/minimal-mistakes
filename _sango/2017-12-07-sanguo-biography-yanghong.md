@@ -15,7 +15,7 @@ gallery:
 
 袁术之幕僚。於演义中为杨大将。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

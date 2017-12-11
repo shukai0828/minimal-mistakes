@@ -15,7 +15,7 @@ gallery:
 
 汉之中山靖王刘勝之子孙。蜀之昭烈皇帝。刘禅之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

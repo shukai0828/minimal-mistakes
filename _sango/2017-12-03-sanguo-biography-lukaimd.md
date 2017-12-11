@@ -15,7 +15,7 @@ gallery:
 
 吴国幕僚。陆逊之外甥。陆禕之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 樊城县令·刘泌之子。刘备之养子。本姓为寇。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

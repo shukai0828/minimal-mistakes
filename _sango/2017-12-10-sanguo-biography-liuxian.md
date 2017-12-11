@@ -15,7 +15,7 @@ gallery:
 
 零陵太守刘度之子。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

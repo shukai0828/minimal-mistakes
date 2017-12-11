@@ -15,7 +15,7 @@ gallery:
 
 魏之官僚。傅介子之子。傅巽之外甥。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

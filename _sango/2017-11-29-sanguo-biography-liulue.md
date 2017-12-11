@@ -15,7 +15,7 @@ gallery:
 
 吴国武将。留赞之子。留平之兄弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 为桥玄一族的子世代。东汉的东郡太守
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

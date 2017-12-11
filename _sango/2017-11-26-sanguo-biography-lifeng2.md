@@ -15,7 +15,7 @@ gallery:
 
 魏国官僚。李义之子。李翼之兄。李韬之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

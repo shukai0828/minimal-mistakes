@@ -15,7 +15,7 @@ gallery:
 
 孙权之长女。其亲为步氏。孙鲁育（朱公主）之亲姐。嫁予全琮，人称全公主。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

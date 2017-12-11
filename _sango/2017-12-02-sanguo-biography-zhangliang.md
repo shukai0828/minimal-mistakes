@@ -15,7 +15,7 @@ gallery:
 
 黄巾首领·张角之三弟。张宝之弟。人公将军。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

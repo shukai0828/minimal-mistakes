@@ -15,7 +15,7 @@ gallery:
 
 吴国武将。贺达、贺景之父，贺邵的祖父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

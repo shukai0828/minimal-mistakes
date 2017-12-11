@@ -15,7 +15,7 @@ gallery:
 
 曹操的武将。因其武艺以及胆识，另有「虎痴」的别称。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

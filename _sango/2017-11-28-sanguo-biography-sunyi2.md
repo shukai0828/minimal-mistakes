@@ -15,7 +15,7 @@ gallery:
 
 孙坚之三男。其母为正室之吴氏。孙策、孙权之亲弟。孙匡之亲兄。孙朗、孙尚香之同父異母之兄。其妻为徐氏。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

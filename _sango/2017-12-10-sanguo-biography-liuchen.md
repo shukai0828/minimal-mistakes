@@ -15,7 +15,7 @@ gallery:
 
 刘禅之五男。刘璿之弟。北地王。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

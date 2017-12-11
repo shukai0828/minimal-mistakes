@@ -15,7 +15,7 @@ gallery:
 
 徐州之豪商。刘备之幕僚。糜芳之兄长。将其妹嫁予刘备。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

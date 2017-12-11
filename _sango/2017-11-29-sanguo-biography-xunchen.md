@@ -15,7 +15,7 @@ gallery:
 
 冀州牧·韩馥的幕僚，荀彧之弟。後改仕袁绍。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

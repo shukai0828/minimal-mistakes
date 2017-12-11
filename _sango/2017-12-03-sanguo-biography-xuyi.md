@@ -15,7 +15,7 @@ gallery:
 
 许褚之子。魏国牙门将军。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

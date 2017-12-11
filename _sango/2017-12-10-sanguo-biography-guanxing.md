@@ -15,7 +15,7 @@ gallery:
 
 关羽的次子，关统之父，张苞的义弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 东汉荥阳太守。董卓的部下。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

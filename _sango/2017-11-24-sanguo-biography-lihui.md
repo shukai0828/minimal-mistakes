@@ -15,7 +15,7 @@ gallery:
 
 刘璋之武将。尔後服侍於刘备。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

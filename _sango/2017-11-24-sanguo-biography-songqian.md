@@ -15,7 +15,7 @@ gallery:
 
 孙权的武将。操使方天画戟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

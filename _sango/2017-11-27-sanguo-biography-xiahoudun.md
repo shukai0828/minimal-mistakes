@@ -15,7 +15,7 @@ gallery:
 
 曹操的重臣，西汉夏侯婴的後裔。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

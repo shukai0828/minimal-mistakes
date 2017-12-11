@@ -15,7 +15,7 @@ gallery:
 
 吴之丞相。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

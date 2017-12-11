@@ -15,7 +15,7 @@ gallery:
 
 蜀国官僚。张飞之次男。张苞之弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 曹操之参谋。程武之父。程晓之祖父。本名为程立。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

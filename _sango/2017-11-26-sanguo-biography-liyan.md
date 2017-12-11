@@ -15,7 +15,7 @@ gallery:
 
 刘璋之武将。尔後服侍於刘备。後改名为李平。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

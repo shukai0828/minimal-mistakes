@@ -15,7 +15,7 @@ gallery:
 
 孙权的三子。孙登之弟，孙霸、休、亮之兄，孙皓之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

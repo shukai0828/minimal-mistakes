@@ -15,7 +15,7 @@ gallery:
 
 刘备的幕僚。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 车骑将军。灵帝之母董太后外甥。献帝之叔父。於演义中其女为献帝之妃，身为国舅（皇帝之舅）。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

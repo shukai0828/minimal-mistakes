@@ -15,7 +15,7 @@ gallery:
 
 诸葛珪之子。诸葛瑾、亮之弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

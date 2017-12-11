@@ -15,7 +15,7 @@ gallery:
 
 空想之人物。吕布之女，以遗传其父之武勇自豪。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 东汉之河内太守。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

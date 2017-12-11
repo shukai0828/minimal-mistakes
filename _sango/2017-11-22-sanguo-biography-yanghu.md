@@ -15,7 +15,7 @@ gallery:
 
 晋之武将。其姊为司马师之妻。其妻为夏侯霸之女。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

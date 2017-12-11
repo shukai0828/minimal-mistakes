@@ -15,7 +15,7 @@ gallery:
 
 蜀国武将。有一说为正史「三国志」之作者·陈寿之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 吴国幕僚。与张紘一同被称为「江东二张」之策士。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

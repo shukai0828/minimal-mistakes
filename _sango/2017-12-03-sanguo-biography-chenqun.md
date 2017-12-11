@@ -15,7 +15,7 @@ gallery:
 
 魏国官僚。陈泰之父。祖父陈寔、其父陈纪、叔父陈谌都皆为东汉之名臣。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 孙坚之么弟。孙策、孙权之叔父。孙瑜、孙皎之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

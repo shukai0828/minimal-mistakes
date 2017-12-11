@@ -15,7 +15,7 @@ gallery:
 
 东汉并州刺史，凉州军阀首领之一。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

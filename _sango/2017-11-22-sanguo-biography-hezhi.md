@@ -15,7 +15,7 @@ gallery:
 
 吴国司徒。孙和的侧室·何氏之弟，孙皓的叔父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

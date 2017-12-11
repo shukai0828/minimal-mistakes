@@ -15,7 +15,7 @@ gallery:
 
 蜀国军前都督、粮秣官。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 蜀国丞相·诸葛亮的长子，母亲为黄氏（月英）。诸葛尚之父。迎娶刘禅的女兒，然後继承父亲的爵位。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

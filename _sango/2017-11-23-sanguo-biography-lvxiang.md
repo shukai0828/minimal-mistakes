@@ -15,7 +15,7 @@ gallery:
 
 袁尚之武将。後效命曹操。於演义中为吕旷之弟。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 西汉名臣·诸葛豐的子孙。虽是吴国诸葛锦、蜀国诸葛亮的堂弟，但却是为魏国效命。诸葛靓之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 魏国重臣·陈群之子。其妻为荀顗之女。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

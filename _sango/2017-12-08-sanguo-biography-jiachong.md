@@ -15,7 +15,7 @@ gallery:
 
 贾逵之子。晋惠帝之后·贾南风之父。司马昭的心腹。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

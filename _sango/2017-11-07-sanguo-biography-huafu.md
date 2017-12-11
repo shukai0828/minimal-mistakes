@@ -15,7 +15,7 @@ gallery:
 
 吴国之臣，韦昭的好友。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

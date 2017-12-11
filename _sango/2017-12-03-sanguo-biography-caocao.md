@@ -15,7 +15,7 @@ gallery:
 
 宦官·曹腾之孙，曹嵩之子。魏国的武王。幼名为阿瞒。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

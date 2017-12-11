@@ -15,7 +15,7 @@ gallery:
 
 孙权之七男。其母为潘氏。孙登、孙和、孙霸、孙休之弟。吴国第二代皇帝。其妻为全氏（全尚之女）。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

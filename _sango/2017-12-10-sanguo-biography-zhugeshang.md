@@ -15,7 +15,7 @@ gallery:
 
 蜀国丞相·诸葛亮之孙。诸葛瞻的长子。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 董卓的武将，幼名阿多。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

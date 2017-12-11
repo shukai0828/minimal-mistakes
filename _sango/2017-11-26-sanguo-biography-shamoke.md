@@ -15,7 +15,7 @@ gallery:
 
 五溪的蛮族之王。使用铁蒺藜骨朵。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

@@ -15,7 +15,7 @@ gallery:
 
 夏侯文寧之女。曹爽的堂弟·曹文叔之妻。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

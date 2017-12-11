@@ -15,7 +15,7 @@ gallery:
 
 东汉之名士。击鼓名手。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

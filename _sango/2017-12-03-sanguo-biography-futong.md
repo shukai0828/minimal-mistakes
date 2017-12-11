@@ -15,7 +15,7 @@ gallery:
 
 蜀之武将。傅佥之父。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 

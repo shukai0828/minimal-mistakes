@@ -15,7 +15,7 @@ gallery:
 
 南蛮王·孟获之妻。带来洞主之姐。古代南方火神·祝融的末裔。使用飞刀的名手。
 
-{% include gallery caption="page.title" %}
+{% include gallery caption=page.title %}
 
 ## 演义
 
