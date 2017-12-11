@@ -9,7 +9,7 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/38-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/1038-1.png
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
