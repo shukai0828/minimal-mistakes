@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/498-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a98-1.png
+    alt: "青囊书"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 医生。使用麻醉药「麻沸散」进行外科手术。

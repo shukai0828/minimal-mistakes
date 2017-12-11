@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/138-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a48-1.png
+    alt: "飞刀"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 南蛮王·孟获之妻。带来洞主之姐。古代南方火神·祝融的末裔。使用飞刀的名手。

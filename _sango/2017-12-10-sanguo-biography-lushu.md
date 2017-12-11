@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/664-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a70-1.png
+    alt: "晏子春秋"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 吴国武将。鲁肃之子。鲁睦之父。

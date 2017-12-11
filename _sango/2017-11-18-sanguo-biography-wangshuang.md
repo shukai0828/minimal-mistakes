@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/206-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a43-1.png
+    alt: "流星锤"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 魏国武将。身高九尺，操使60斤的大剃刀、内含铁芯的弓箭以及流星锤的猛将。和参加曹仁的进攻濡须而败给朱桓的王双是不同人。

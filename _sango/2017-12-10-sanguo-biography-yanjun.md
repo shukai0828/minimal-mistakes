@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/325-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a96-1.png
+    alt: "孝经传"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 吴国官僚。

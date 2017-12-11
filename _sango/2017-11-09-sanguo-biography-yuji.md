@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/497-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a99-1.png
+    alt: "太平清领道"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 东汉道士。住於东方，往来於江东近处一带。

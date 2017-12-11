@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/152-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a27-1.png
+    alt: "三尖刀"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 袁术的武将。操使重达五十斤的三尖刀。

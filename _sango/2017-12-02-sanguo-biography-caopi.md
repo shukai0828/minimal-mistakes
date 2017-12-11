@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/62-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a90-1.png
+    alt: "典论"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 曹操的次子。母亲为卞氏，是曹彰、曹植、曹熊的亲兄长。和甄氏所生下的孩子为曹叡。魏国的初代皇帝·文帝。

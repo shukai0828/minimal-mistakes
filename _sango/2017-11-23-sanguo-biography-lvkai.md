@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/233-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a105-1.png
+    alt: "平蛮指掌图"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 蜀国官僚。

@@ -9,7 +9,12 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/4-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a6-1.png
+    alt: "赤兔马"
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a37-1.png
+    alt: "方天画戟"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/1004-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 

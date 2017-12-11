@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/242-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a157-1.png
+    alt: "筑"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 蜀国武将。赵雲之次男。赵统之弟。

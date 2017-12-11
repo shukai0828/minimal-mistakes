@@ -10,7 +10,8 @@ categories:
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/10-1.png
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/1010-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a18-1.png
+    alt: "青釭剑"
 ---
 
 赵统、赵广之父。蜀国五虎将军之一。

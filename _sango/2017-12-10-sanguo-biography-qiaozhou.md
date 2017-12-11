@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/271-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a97-1.png
+    alt: "仇国论"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 蜀国官僚、学者，原为刘璋部下。通天文。

@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/177-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a21-1.png
+    alt: "神刀"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 刘璋部下的蜀郡太守。後为蜀国司徒。

@@ -9,7 +9,12 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/37-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a7-1.png
+    alt: "的卢"
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a18-1.png
+    alt: "双股剑"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/1037-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 

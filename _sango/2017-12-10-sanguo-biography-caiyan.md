@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/570-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a155-1.png
+    alt: "琴"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 女流诗人。学者·蔡邕之女，原卫道玠之妻。

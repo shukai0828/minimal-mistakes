@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/14-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a38-1.png
+    alt: "双铁戟"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 曹操之武将。手操八十斤之双铁戟。

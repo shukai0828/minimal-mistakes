@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/137-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a41-1.png
+    alt: "铁蒺藜骨朵"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 五溪的蛮族之王。使用铁蒺藜骨朵。

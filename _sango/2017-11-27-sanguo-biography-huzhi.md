@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/467-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a22-1.png
+    alt: "百辟刀"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 魏国武将。胡敏之子，胡威之父。

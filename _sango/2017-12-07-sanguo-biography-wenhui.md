@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/690-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a49-1.png
+    alt: "三尖刀"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 温恕之子，温生之父。为魏国之臣。

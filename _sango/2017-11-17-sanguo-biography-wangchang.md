@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/309-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a93-1.png
+    alt: "治论"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 王浑之父，魏国征南大将军。

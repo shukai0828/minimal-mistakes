@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/49-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a94-1.png
+    alt: "辩道论"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 曹操的四子。母亲是卞氏。曹丕、曹彰之弟，曹熊之兄。是代表建安文学的诗人。临淄侯。陈王。

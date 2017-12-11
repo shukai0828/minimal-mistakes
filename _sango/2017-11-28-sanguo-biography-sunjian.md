@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/63-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a20-1.png
+    alt: "古锭刀"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 东汉长沙太守。孙策、孙权之父。吴国的武烈皇帝。

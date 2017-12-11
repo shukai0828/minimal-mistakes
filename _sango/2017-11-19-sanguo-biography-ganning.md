@@ -10,7 +10,8 @@ categories:
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/18-1.png
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/1018-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a42-1.png
+    alt: "铁锁"
 ---
 
 吴国勇将。原是锦帆贼的头目，在腰间繫有铃铛。

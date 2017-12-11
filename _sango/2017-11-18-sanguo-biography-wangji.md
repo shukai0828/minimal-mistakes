@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/205-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a92-1.png
+    alt: "时要论"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 魏之武将。历任安平太守、荆州刺史等职。

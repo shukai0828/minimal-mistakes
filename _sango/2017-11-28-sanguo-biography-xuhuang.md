@@ -10,7 +10,8 @@ categories:
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/38-1.png
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/1038-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a39-1.png
+    alt: "大斧"
 ---
 
 魏国武将。操使大斧的能手。

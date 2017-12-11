@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/174-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a95-1.png
+    alt: "乾象历注"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 吴国幕僚。

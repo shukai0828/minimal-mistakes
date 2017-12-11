@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/493-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a89-1.png
+    alt: "论语集解"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 东汉大将军·何进之孙，曹爽的心腹。

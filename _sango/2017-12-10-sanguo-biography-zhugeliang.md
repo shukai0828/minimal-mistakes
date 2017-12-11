@@ -9,8 +9,14 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/46-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a14-1.png
+    alt: "四轮车"
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a163-1.png
+    alt: "白羽扇"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/1046-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a66-1.png
+    alt: "兵法二十四编"
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
 ---
 
 诸葛珪之子，诸葛瑾之弟。诸葛均之兄，诸葛瞻之父。

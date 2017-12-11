@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/162-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a33-1.png
+    alt: "铁脊蛇矛"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 服侍孙坚、孙策、孙权三代之吴国老臣。程咨之父。

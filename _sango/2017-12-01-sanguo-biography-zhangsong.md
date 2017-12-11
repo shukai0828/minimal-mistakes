@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/51-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a104-1.png
+    alt: "西蜀地形图"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 刘璋之幕僚。张肃之弟。

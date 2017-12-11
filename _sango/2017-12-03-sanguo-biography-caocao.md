@@ -9,8 +9,15 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/61-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a8-1.png
+    alt: "爪黄飞电"
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a17-1.png
+    alt: "倚天剑"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/1061-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a9-1.png
+    alt: "绝影"
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a65-1.png
+    alt: "孟德新书"
 ---
 
 宦官·曹腾之孙，曹嵩之子。魏国的武王。幼名为阿瞒。

@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/172-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a16-1.png
+    alt: "七星宝刀"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 东汉司徒。被誉为「一日千里，王佐之才也」的名士。

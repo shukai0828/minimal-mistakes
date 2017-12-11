@@ -10,7 +10,8 @@ categories:
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/2-1.png
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/1002-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a32-1.png
+    alt: "蛇矛"
 ---
 
 刘备、关羽之义弟。张苞、张绍之父。正史中字为益德。

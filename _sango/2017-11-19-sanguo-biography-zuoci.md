@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/501-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a101-1.png
+    alt: "遁甲天书"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 东汉之方士。

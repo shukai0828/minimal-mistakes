@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/506-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a91-1.png
+    alt: "博弈论"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 吴的幕僚。在正史中，避开司马昭之名，以韦曜记述。

@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/44-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a31-1.png
+    alt: "大刀"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 曹操的参谋，郭奕之父。

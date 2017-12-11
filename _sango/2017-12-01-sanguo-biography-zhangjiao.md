@@ -9,8 +9,9 @@ categories:
   - Sango
 gallery:
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/521-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a102-1.png
+    alt: "太平要术"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/a126-1.png
 ---
 
 黄巾之乱之指导者，太平道教祖。张宝、张梁之兄。自称天公将军。
