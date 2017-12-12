@@ -1,5 +1,5 @@
 ---
-title: "傳异·公梯"
+title: "傳巽·公梯"
 date:   2017-12-05 08:11:11
 header:
   overlay_image: http://oyy3dtfqo.bkt.clouddn.com/s319-1.png
