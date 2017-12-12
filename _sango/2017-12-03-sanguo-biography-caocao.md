@@ -31,3 +31,9 @@ gallery:
 ## 正史
 
 政战两方都非常優秀，並且是精通诗歌文学的万能英雄。
+
+![](http://oyy3dtfqo.bkt.clouddn.com/f430-1.png)
+
+![](http://oyy3dtfqo.bkt.clouddn.com/f9-1.png)
+
+![](http://oyy3dtfqo.bkt.clouddn.com/f447-1.png)

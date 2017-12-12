@@ -29,3 +29,7 @@ gallery:
 ## 正史
 
 好读「春秋左氏传」，並熟谙其内容。
+
+![](http://oyy3dtfqo.bkt.clouddn.com/f10-1.png)
+
+![](http://oyy3dtfqo.bkt.clouddn.com/f442-1.png)

@@ -25,3 +25,9 @@ gallery:
 ## 正史
 
 其妻为夏侯霸表妹，其女则成为刘禅之皇后。
+
+![](http://oyy3dtfqo.bkt.clouddn.com/f439-1.png)
+
+> 长坂桥头杀气生，横枪立马眼圆睁。一声好似轰雷震，独退曹家百万兵。
+
+![](http://oyy3dtfqo.bkt.clouddn.com/f442-1.png)

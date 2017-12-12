@@ -24,3 +24,5 @@ gallery:
 ## 正史
 
 以拥有怪力自豪，擅长骑射。黄巾之乱後，镇压叛乱西羌族表现優異，渐进地不从中央之统治。
+
+![](http://oyy3dtfqo.bkt.clouddn.com/f438-1.png)

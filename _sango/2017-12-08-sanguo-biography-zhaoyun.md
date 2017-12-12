@@ -25,3 +25,5 @@ gallery:
 ## 正史
 
 於博望之战时擒拿同乡之夏侯兰，为其说情求饶。尔後赵雲即谨慎小心不接近夏侯兰。
+
+![](http://oyy3dtfqo.bkt.clouddn.com/f429-1.png)

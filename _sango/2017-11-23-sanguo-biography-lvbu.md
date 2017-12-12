@@ -29,3 +29,9 @@ gallery:
 ## 正史
 
 与董卓之侍女私通，王允也参与此阴谋。
+
+![](http://oyy3dtfqo.bkt.clouddn.com/f433-1.png)
+
+![](http://oyy3dtfqo.bkt.clouddn.com/f6-1.png)
+
+![辕门射戟](http://oyy3dtfqo.bkt.clouddn.com/f443-1.png)

@@ -29,3 +29,11 @@ gallery:
 ## 正史
 
 喜好狩猎及音乐，並重视自身之修养。
+
+![青梅煮酒论英雄](http://oyy3dtfqo.bkt.clouddn.com/f428-1.png)
+
+![](http://oyy3dtfqo.bkt.clouddn.com/f432-1.png)
+
+![](http://oyy3dtfqo.bkt.clouddn.com/f8-1.png)
+
+![](http://oyy3dtfqo.bkt.clouddn.com/f442-1.png)
