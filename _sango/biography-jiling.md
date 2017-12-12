@@ -8,7 +8,7 @@ categories:
   - Games
   - Sango
 gallery:
-  - image_path: http://oyy3dtfqo.bkt.clouddn.com/152-1.png
+  - image_path: http://oyy3dtfqo.bkt.clouddn.com/156-1.png
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a27-1.png
     alt: "三尖刀"
   - image_path: http://oyy3dtfqo.bkt.clouddn.com/a172-1.png
