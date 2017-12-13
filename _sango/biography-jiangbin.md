@@ -2,7 +2,7 @@
 title: "将斌"
 date:   2017-12-10 09:49:49
 header:
-  overlay_image: http://oyy3dtfqo.bkt.clouddn.com/s319-1.png
+  overlay_image: http://oyy3dtfqo.bkt.clouddn.com/s321-1.png
   overlay_filter: 0.5
 categories:
   - Games
