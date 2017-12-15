@@ -6,7 +6,12 @@ categories: Technology CodeReview
 toc: true
 toc_label: 目录
 toc_icon: fa-code
+header:
+  overlay_image: http://7xil47.com1.z0.glb.clouddn.com/CodeReviewCommonImg.jpg
+  overlay_filter: 0.5
 ---
+
+本文重点介绍了如何进行有效的代码评审工作。
 
 ![代码评审](http://7xil47.com1.z0.glb.clouddn.com/wp-why-isnt-code-review-working-en.png)
 
