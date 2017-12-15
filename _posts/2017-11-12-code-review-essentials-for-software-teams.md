@@ -27,6 +27,14 @@ Code Review is a powerful tool that:
 
 It’s helpful to think of these benefits as a hierarchy of needs.
 
+代码评审用于：
+
+- 帮助团队成员在系统发生变更时有一致的感知
+- 确保变更正确地解决问题
+- 对设计的优缺点进行开放式的讨论
+- 在代码上线之前找到bug
+- 保证代码风格和结构一致
+
 Code Review: Hiercharchy of Needs
 
 ![代码评审关注点等级](http://7xil47.com1.z0.glb.clouddn.com/code_review_hierarchy.png)
@@ -151,7 +159,7 @@ A few things that have improved in this pull request description: The title is d
 
 > 良好的代码评审请求说明能够让评审人员更加容易允许“merge”。
 
-## 评审者：给出建设性的反馈
+## 建设性反馈
 
 Reviewers: Giving Constructive Feedback
 
