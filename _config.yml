@@ -243,6 +243,9 @@ collections:
   sango:
     output: true
     permalink: /:collection/:path/
+  letters:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -276,3 +279,15 @@ defaults:
       comments: false
       sidebar:
         nav: "sango"
+  # _letters
+  - scope:
+      path: ""
+      type: letters
+    values:
+      layout: single
+      read_time: false
+      author_profile: true
+      share: false
+      comments: false
+      sidebar:
+        nav: "letters"
