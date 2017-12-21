@@ -161,6 +161,6 @@ Conclusion
 
 The hardest part of writing a design document has nothing to do with the writing. The difficult part is working through a logical design before you get to coding. Once you have a vision of how the objects and entities are arranged, writing the details is easy. In addition, it should not require anything more than a word processor and a simple shape painting program. The positive difference that spending a week on this task can make is unbelievably rewarding in the end. As the adage goes, “If you fail to plan, then you plan to fail.”
 
-> 如果你没有计划好，那么你就计划失败。
+> 如果你没有计划好，那么你的计划就会失败。
 
 [原文出处](http://blog.slickedit.com/2007/05/how-to-write-an-effective-design-document/ "How to Write an Effective Design Document")
