@@ -1,10 +1,16 @@
 ---
 layout: single
-title: "Do Not Go Gentle Into That Good Night"
-categories: Movie
-description: 电影《星际穿越》里老教授布兰德多次念诵的诗歌。
-date: 2014-12-06T19:37:57+08:00
+date:   2014-12-06 19:37:57
+title:  "Do Not Go Gentle Into That Good Night"
+header:
+  overlay_image: http://p134u8vmw.bkt.clouddn.com/gargantua_interstellar_fanart__animation_by_ensou-d8fgyzy.jpg
+  overlay_filter: 0.5
+categories:
+  - Letters
+  - Movie
 ---
+
+不要踏入静谧的良夜，英国作家、诗人狄兰·托马斯的主要代表作之一，诗中洋溢着一种神秘原始的内在力量，表现人性的律动。电影《星际穿越》里老教授布兰德多次念诵的诗歌。
 
 Do not go gentle into that good night,
 
@@ -79,3 +85,6 @@ Rage, rage against the dying of the light.
 > 不要温和地走进那个良夜。
 
 > 怒斥吧，怒斥光的消逝。
+
+
+![星际穿越](http://p134u8vmw.bkt.clouddn.com/christopher-nolan-interstellar-nolan-space-ship-planet-fan-art-fiction.jpg)

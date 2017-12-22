@@ -1,5 +1,6 @@
 ---
 layout: single
+date:   2017-08-14 19:37:57
 title:  "如何写有效的设计文档 "
 header:
   overlay_image: http://7xil47.com1.z0.glb.clouddn.com/common_title_documents.jpg
