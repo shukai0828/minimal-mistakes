@@ -1,7 +1,7 @@
 ---
 layout: single
 date:   2017-12-23 14:53:09
-title:  "用PHP体验TDD ——Before Training"
+title:  "用PHP实践TDD ——Before Training"
 header:
   overlay_image: http://7xil47.com1.z0.glb.clouddn.com/common_title_tdd.jpg
   overlay_filter: 0.5
