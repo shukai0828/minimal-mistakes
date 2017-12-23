@@ -15,7 +15,7 @@ toc_icon: fa-gears
 
 需求：“购物车能够计算已添加的商品总价格，当商品的单价大于等于100时，该商品优惠50元”
 
-## 测试用例
+## 测试用例分析
 
 根据需求，抽象出如下几个测试用例：
 
@@ -26,7 +26,7 @@ toc_icon: fa-gears
 * 购物车有三件商品，价格分别是150、100、80，总价为（150 - 50）+（100 - 50）+ 80 = 230
 * 购物车有三件商品，价格分别是90、80、70，总价为 90 + 80 + 70 = 240
 
-## 初步设计
+## 完成初步设计
 
 考虑设计如下三个类：
 * 商品类
@@ -154,7 +154,7 @@ class Cart
         $this->productList[] = $product;
     }
 
-    function getTotalPrice() {
+    function getPrice() {
         $totalPrice = 0;
         foreach($this->productList as $product) {
             $totalPrice += Discount::price($product->getPrice());
