@@ -307,4 +307,4 @@ class CartTest extends TestCase
 
 实践项目完整源代码下载：[项目源代码](https://github.com/shukai0828/ExperienceTDDUsingPHP/archive/accomplishment.zip)
 
-ThoughtWords工程师的现场实战：[ThoughtWords张晓庆](http://www.infoq.com/cn/presentations/zxq-tdd)
+ThoughtWorks工程师的现场实战：[ThoughtWorks张晓庆](http://www.infoq.com/cn/presentations/zxq-tdd)
