@@ -8,6 +8,18 @@ header:
 categories:
   - Development
   - GIT
+gallery:
+  - image_path: http://7xil47.com1.z0.glb.clouddn.com/LinusTorvalds.jpg
+  - image_path: http://7xil47.com1.z0.glb.clouddn.com/LinusTorvalds2.jpg
+  - image_path: http://7xil47.com1.z0.glb.clouddn.com/LinusTorvalds3.jpg
+gallery2:
+  - image_path: http://7xil47.com1.z0.glb.clouddn.com/Larry_McVoy.jpg
+  - image_path: http://7xil47.com1.z0.glb.clouddn.com/Larry_McVoy2.jpg
+  - image_path: http://7xil47.com1.z0.glb.clouddn.com/Larry_McVoy3.jpg
+gallery3:
+  - image_path: http://7xil47.com1.z0.glb.clouddn.com/RichardStallman.jpg
+  - image_path: http://7xil47.com1.z0.glb.clouddn.com/RichardStallman2.jpg
+  - image_path: http://7xil47.com1.z0.glb.clouddn.com/RichardStallman3.jpg
 ---
 
 纯转载，本文应该写在2005年之前，讲述了Linux团队和Bitkeeper的爱恨情仇，以及GIT的诞生。GIT因Bitkeeper启发而起，以Bitkeeper为目标仿效，最终几乎完胜Bitkeeper，纵观前因后果，GIT可称“枭雄”。
@@ -16,21 +28,21 @@ categories:
 
 维持数年的BitKeeper与Linux的关系最终还是落入了好莱坞明星婚姻式的结局。他们曾经相得益彰，最后却走到这个遗憾的地步。kerneltrap这篇[Feature: No More Free BitKeeper](http://kerneltrap.org/node/4966)做了一个完整的回顾。（与原文有改编）
 
-![Larry McVoy](http://7xil47.com1.z0.glb.clouddn.com/bitkeeper.jpg)
+![Larry McVoy](http://7xil47.com1.z0.glb.clouddn.com/bitkeeper.png)
 
 1999年12月，Linux PowerPC项目首先开始使用BitKeeper－－这个非开源但是有条件免费的版本控制工具。到了2002年2月，Linux之父Linus Torvalds已经决定开始用它来管理Linux内核代码主线－－Linus对BitKeeper的评价是the best tool for the job－－这是个最后在free和open source社区甚至之外都引起了广泛瞩目的举动。
 
-![Linus Torvalds](http://7xil47.com1.z0.glb.clouddn.com/LinusTorvalds.jpg)
+{% include gallery caption="Linus Torvalds"%}
 
 BitMover是BitKeeper的开发厂商，创始人和CEO是Larry McVoy。Larry期望BitKeeper 能帮助Linus 免于陷入不断加重的Linux内核管理工作中－－事实上，自从Linus 3年前开始使用BitKeeper之后，Linux的开发步伐加快了两倍。
 
-![Larry McVoy](http://7xil47.com1.z0.glb.clouddn.com/Larry_McVoy.jpg)
+{% include gallery id="gallery2" caption="Larry McVoy" %}
 
 Free Software这个短语中的Free可以被理解成“自由”，好像Free as in Freedom中的Free－－或者仅仅是“免费”，Free as in Free Beer中的Free。BitKeeper是按照后一种定义免费可用的。允许free/open source软件开发者不用付费就能使用这个工具－－前提是这样一个协议：这个免费工具的真正使用者不能同时开发其竞争产品。换句话说，这个工具可以免费使用freelyused，不过不能被随便克隆freely cloned。当然同时，BitMover还有一个更高级的BitKeeper版本是商业产品，需要购买。这两个版本都是BitMover的知识产权。
 
 也有人一直反对Linus使用BitKeeper－－想想看，Linux是free/open source软件的旗舰产品，却在使用一个非free/open source软件－－GNU的传奇人物，那个看上去和耶稣有几分相似的大胡子Richard Stallman就是其中之一。他严厉地批评Linus决定使用非自由（free as in freedom）软件。然而，大多数人都承认，目前也没有哪个free工具具有BitKeeper那样的功能－－它提供了真正的分布式开发能力。这些年来，对BitKeeper的一些功能进行反向工程的举动引起了BitMover的多次注意和警告，最近两次这样的动作则最终导致了BitMover决定终止结束免费BitKeeper产品的开发和应用。
 
-![Richard Stallman](http://7xil47.com1.z0.glb.clouddn.com/RichardStallman.jpg)
+{% include gallery id="gallery3" caption="Richard Stallman" %}
 
 －－**Best Tool For The Job**
 
@@ -83,26 +95,4 @@ Larry 认为这个工具只需要在Linux运行即可，不需要支持其他平
 
 关于是Free as in Freedom 还是 Free as in Free Beer的争论离结束的日子还远得很，我们可以肯定，当从BitKeeper迁移出的时候，在Linux内核邮件列表上又会有长长的争论。今天还没有明显的替代品，不过已经有项目开展起来打算满足内核开发者要求的时候，这个目标就只是时间问题了。既然内核曾经由一个高质量的源码控制产品维护，那么将来应该也会如此，只要有需要，就会有解决方法。柏拉图的话最适用，necessity is the mother of invention，创造来自需求。
 
-
- 
-from http://zhouxiaohu.blogbus.com/logs/1115748.html
-
-————————————————————————————
-
-BitKeeper 是a 软件 工具为 修正控制 (配置管理 SCM 等) 计算机 原始代码． 一个老练分配系统, BitKeeper 主要竞争反对其它专业系统譬如 合理的ClearCase 并且 强迫地． BitKeeper 由BitMover Inc. 生产, 私有公司根据 旧金山, 加利福尼亚 并且拥有 CEO 拉里・McVoy, 谁早先设计了 TeamWare．
-
-BitKeeper 修造在许多TeamWare 概念。 它的关键卖点是分布开发小组能保留他们自己的地方来源贮藏库和仍然工作与中央贮藏库的舒适。
-
-BitKeeper 是闭合来源产品和通常被卖或被出租(作为支持包裹一部分) 对中等或大公司。 精确费用随单独顾客变化, 但每开发商费用估计是一千美元。
-
-
-BitKeeper, Linux 和自由版本为开放来源项目
-BitMover 过去经常为确定提供存取对于系统 开放来源 或 免费软件 项目, 最著名(和有争议) 是原始代码 Linux 仁． 执照为BitKeeper 的”社区” 版本考虑到开发商免费使用工具为开放来源或免费软件项目, 假设那些开发商没有参加一个竞争的工具的发展(譬如 CVS, GNU 曲拱, 颠覆 或 ClearCase) 为BitKeeper 他们的用法的期间加上一年。 这个制约申请是否竞争的工具是开放自由或业主。 这个BitKeeper 的版本并且要求, 关于变动的某一阶信息被存放在计算机服务器由Bitmover 管理(万维网。openlogging 。org), 使它不可能使社区版本用户开办项目对Bitmover 是未察觉的加法。
-
-决定被做出 2002 年 使用BitKeeper 为Linux 仁发展是一有争议一个。 一些, 著名地 GNU 创建者 理查・Stallman, 对私有的工具的表达的关心被使用在旗舰任意射出。 当项目负责人 Linus Torvalds 并且其它核心开发商采取了BitKeeper, 数锁上开发商(包括Linux 退伍军人 阿伦・考克斯) 拒绝做如此, 援引Bitmover 执照, 并且讲的关心, 项目割让一些控制对一位私有的开发商。 缓和这些关心, Bitmover 增加了允许有限的interoperation 在Linux BitKeeper 服务器的门户(由Bitmover 维护) 并且开发商之间使用CVS 和颠覆。 在这加法以后, flamewars1 偶尔地发生了在 Linux 仁邮寄的名单, 经常涉及关键仁开发商和Bitmover CEO 拉里・McVoy, 谁并且是Linux 开发商。
-
-在4月 2005 年, BitMover 宣布, 它会停止提供BitKeeper 的版本免费对社区, 给作为原因努力 安德鲁”Tridge” Tridgell, 开发商被雇用 OSDL 在一个无关的项目, 开发会显示metadata 的客户(数据关于修正, 可能包括区别在版本之间) 代替唯一较新版本。 能看metadata 和比较通过版本是所有版本控制系统的当中一个核心特点但对任何人不是可利用的没有一个商业BitKeeper 执照, 极大使多数Linux 仁开发商感到不便。 虽然BitMover 决定提供自由商业BitKeeper 准许对一些仁开发商, 它拒绝给或卖执照对任何人由OSDL 使用, 包括 Linus Torvalds 并且 安德鲁・Morton, 安置OSDL 开发商在同样位置其它仁开发商是。 git 项目开始了, 目的在于成为Linux 仁的来源配置管理软件。
-
-支持的末端对于”自由用途” 版本正式地是 7月1 日, 2005 年 并且用户被要求交换对商业版本或改变版本管理系统那时。 商业用户并且被要求不生产任何竞争的工具: 在 10月, 2005 年, McVoy 与一名顾客联系使用comercially 被准许的BitKeeper 要求顾客中止的雇员贡献对 Mercurial 项目, GPL 来源管理工具。 Bryan O’Sullivan, 雇员反应了, “避免冲突的任何可能的悟性, 我志愿了对的拉里只要我继续使用BitKeeper 的商业版本, 我对发展Mercurial 不会贡献。”
-
-from  http://wikipedia.qwika.com/en2zh/BitKeeper
+> 在Linus Torvalds开发出了Git分布式版本控制系统11年后，BitKeeper宣布在Apache 2.0许可证下开源。Linus 是在BitKeeper停止向开源社区提供免费版本后开发了Git，今天Git和其它自由软件版本控制系统已经统治了编程社区，BitKeeper变得无关紧要了。BitKeeper由BitMover公司开发，该公司CEO Larry McVoy与Linus曾是好友， Larry说服Linus在内核开发中使用BitKeeper。而BitKeeper对Linux免费而非开源......Linux团队在价值观上存在分歧......最终促使Linus开发出了毁灭BitMover的Git。
