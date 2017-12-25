@@ -14,8 +14,8 @@ gallery:
   - image_path: http://7xil47.com1.z0.glb.clouddn.com/LinusTorvalds3.jpg
 gallery2:
   - image_path: http://7xil47.com1.z0.glb.clouddn.com/Larry_McVoy.jpg
-  - image_path: http://7xil47.com1.z0.glb.clouddn.com/Larry_McVoy2.jpg
   - image_path: http://7xil47.com1.z0.glb.clouddn.com/Larry_McVoy3.jpg
+  - image_path: http://7xil47.com1.z0.glb.clouddn.com/Larry_McVoy2.jpg
 gallery3:
   - image_path: http://7xil47.com1.z0.glb.clouddn.com/RichardStallman.jpg
   - image_path: http://7xil47.com1.z0.glb.clouddn.com/RichardStallman2.jpg
